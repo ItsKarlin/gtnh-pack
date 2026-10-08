@@ -1,0 +1,10 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/foreman-0.5.4.jar"
+hash = "c845dc35707acc8638451f42322170ba67301966cd736956ab45fd5d61fb4dc6"
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "d1f410ecaacdc03e27a6e7e4784656c4d881825ed944aa68fd2471524c0e6f02"
+metafile = true

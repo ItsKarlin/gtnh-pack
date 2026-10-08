@@ -1,0 +1,8 @@
+name = "WorldEdit (GTNH)"
+filename = "worldedit-v0.0.10.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/worldedit-gtnh/releases/download/v0.0.10/worldedit-v0.0.10.jar"
+hash-format = "sha256"
+hash = "4904a6d7e29e53afaf28d99a50ce4b946b429d174fecd0563e7787e9c8ef481f"
