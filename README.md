@@ -1,13 +1,18 @@
 # Materwelon GTNH extras
 
-The mods our server runs **on top of** GT New Horizons 2.9.0-RC-1, kept in sync automatically.
+The mods our server runs **on top of** GT New Horizons 2.9.0-RC-2, kept in sync automatically.
 Prism runs a small updater every time you launch the game, and it downloads whatever changed here.
 It only touches files it put there itself; the normal GTNH mods are never changed.
 
 This repo is only a list of download links and checksums. It contains no passwords, tokens or world data.
 
+## Updating to a new GTNH version
+The updater only adds our extras; it can't change the normal GTNH mods. When the server moves to a new GTNH
+version, import the new GTNH client zip into Prism as a new instance, copy your `saves/`, `journeymap/`,
+`visualprospecting/`, `options.txt` and `servers.dat` over from the old one, then do the one-time setup below on it.
+
 ## One-time setup (Prism Launcher)
-1. Right-click your GTNH 2.9.0-RC-1 instance → **Folder**, open `.minecraft`.
+1. Right-click your GTNH 2.9.0-RC-2 instance → **Folder**, open `.minecraft`.
 2. Put **`packwiz-installer-bootstrap.jar`** in that `.minecraft` folder
    (from https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest).
 3. If you already have a mod from the list below, leave it. The updater checks it and keeps it if it's the same file.
@@ -28,6 +33,7 @@ Tested on 2026-10-08 with fake copies of each of those: every file's checksum wa
 |---|---|
 | WorldEdit (GTNH) v0.0.10 | the server has it; the client half gives the wand and selection outlines |
 | Foreman 0.5.4 (MIT, by Eldrinn-Elantey) | shared team task board: tasks, subtasks, assignees, HUD pins, map markers. Hotkey "Open Foreman" |
+| GTNH Planner 0.2.0-alpha.5 (MIT, by Arodoid & Sbancuz) | client-only NEI flowchart factory planner. Plans save on your own PC; share one with the planner's chat-link / copy-paste buttons |
 
 ## For Karlin: changing the pack
 ```

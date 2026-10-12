@@ -1,12 +1,12 @@
 name = "Materwelon GTNH extras"
 author = "ItsKarlin"
-version = "0.1.0"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3bb8ebb0b6c84eae17188f4f989a37dff7e175d99d0d858b6df865bb268ff018"
+hash = "264528aaee59d4db448e032c29e3be77d1125024b51c1fdfb868c5ad801b6d1f"
 
 [versions]
 forge = "10.13.4.1614"
