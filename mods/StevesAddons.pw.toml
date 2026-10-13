@@ -1,0 +1,8 @@
+name = "StevesAddons"
+filename = "StevesAddons-0.15.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/StevesAddons/releases/download/0.15.5/StevesAddons-0.15.5.jar"
+hash-format = "sha256"
+hash = "111dd1a4862c46e1d7adf592ddf612440d6f274a1c134a1fcd8bc029ab338809"

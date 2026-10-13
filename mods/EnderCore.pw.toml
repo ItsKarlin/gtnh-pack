@@ -1,0 +1,8 @@
+name = "EnderCore"
+filename = "endercore-0.5.15.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/EnderCore/releases/download/0.5.15/endercore-0.5.15.jar"
+hash-format = "sha256"
+hash = "518d1eb45a02760b45560fdeb3dacf8645f1caccd5cb1b3cb99a85a7807e43c6"

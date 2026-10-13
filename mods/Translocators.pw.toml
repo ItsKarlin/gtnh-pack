@@ -1,0 +1,8 @@
+name = "Translocators"
+filename = "Translocator-1.4.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Translocators/releases/download/1.4.5/Translocator-1.4.5.jar"
+hash-format = "sha256"
+hash = "4a79a47b0fe2b1faca406e3ad7cd3986f4411712d32356ab2e57f3e1622bb637"

@@ -1,0 +1,8 @@
+name = "Nodal-Mechanics"
+filename = "NodalMechanics-1.3.4-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Nodal-Mechanics/releases/download/1.3.4-GTNH/NodalMechanics-1.3.4-GTNH.jar"
+hash-format = "sha256"
+hash = "462f3cedbcd17a40e41e902f786889894c0f36ba9506c198ad229faf157eb2b6"

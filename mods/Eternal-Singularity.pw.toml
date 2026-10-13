@@ -1,0 +1,8 @@
+name = "Eternal-Singularity"
+filename = "eternalsingularity-1.4.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Eternal-Singularity/releases/download/1.4.3/eternalsingularity-1.4.3.jar"
+hash-format = "sha256"
+hash = "9c14074b0749ecddab62e2b16921de23360149e3bda9fb4fbf870efc3b5fd4a9"

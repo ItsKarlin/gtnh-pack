@@ -1,0 +1,8 @@
+name = "AkashicTome"
+filename = "akashictome-1.2.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/AkashicTome/releases/download/1.2.7/akashictome-1.2.7.jar"
+hash-format = "sha256"
+hash = "1852bd5ba27a67c6f870f770bead62f90b0896de1ead392540c53c8e6caebdce"

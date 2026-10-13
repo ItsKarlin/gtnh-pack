@@ -1,0 +1,8 @@
+name = "TC-4-Tweaks"
+filename = "Thaumcraft4Tweaks-1.5.47.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8668/688/Thaumcraft4Tweaks-1.5.47.jar"
+hash-format = "sha256"
+hash = "5f3d3cac7a437b748c49241cb5db3e2a04cd796723de27e2d8a34328429c2b69"

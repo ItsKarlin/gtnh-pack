@@ -1,0 +1,13 @@
+{
+  "id": "bound_pickaxe",
+  "condition": {
+    "type": "inventory.add",
+    "item": "AWWayofTime:boundPickaxe"
+  },
+  "page": "GT New Horizons",
+  "x": 0,
+  "y": 0,
+  "icon": {
+    "registryName": "AWWayofTime:boundPickaxe"
+  }
+}

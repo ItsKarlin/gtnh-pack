@@ -1,0 +1,236 @@
+# RecipeMaps
+gtnhlanth.recipe.digester=蒸解釜
+gtnhlanth.recipe.disstank=溶解タンク
+gtnhlanth.recipe.tc=ターゲットチャンバー
+gtnhlanth.recipe.sc=粒子源チャンバー
+
+gtnhlanth.tt.beaminfo=§b携帯型スキャナー§7を使うとこのマルチブロックの入力/出力についての情報を表示できます
+gtnhlanth.tt.blueprint=§9Structure§2Lib §7のホログラムプロジェクターに従ってメイン構造を建設してください。
+
+gtnhlanth.tt.hintNumber=ヒントブロック%s番
+
+# Digester
+gtnhlanth.tt.digester.machinetype=蒸解釜
+gtnhlanth.tt.digester.structure.any_casing=Any tungstensteel casing
+gtnhlanth.tt.digester.structure.air=Interior and top of the structure
+gtnhlanth.tt.disstank.structure.any_casing=Any stainless steel casing
+gtnhlanth.tt.linac.structure.hatch_pos=Any bottom edge casing 3-8 blocks from front
+gtnhlanth.tt.linac.structure.input_hatch_pos=Top center casing 8th block from front
+gtnhlanth.tt.linac.structure.output_hatch_pos=Top center casing 8th block from back
+gtnhlanth.tt.sc.structure.output_pos=Behind controller
+gtnhlanth.tt.synch.structure.antenna_casing=Antenna Casing
+gtnhlanth.tt.synch.structure.energy_pos=Above each antenna casing
+gtnhlanth.tt.synch.structure.input_hatch_pos=Between the energy hatches
+gtnhlanth.tt.synch.structure.output_hatch_pos=Opposite the input hatches
+gtnhlanth.tt.synch.structure.beam_input_pos=Left of controller
+gtnhlanth.tt.synch.structure.beam_output_pos=Right and back of controller
+gtnhlanth.tt.tc.structure.input_bus_pos=2nd top center casing from front (masks) and back (wafers)
+
+# Dissolution Tank
+gtnhlanth.tt.disstank.machinetype=溶解タンク
+
+# Source Chamber
+gtnhlanth.tt.sc.machinetype=Particle Source
+gtnhlanth.tt.sc.input=§cRequires 1 input bus OR 1 input hatch
+
+# Linear Accelerator
+gtnhlanth.tt.linac.machinetype=Particle Accelerator, LINAC
+
+# Synchrotron
+gtnhlanth.tt.synch.machinetype=Particle Accelerator
+
+# Target Chamber
+gtnhlanth.tt.tc.machinetype=Collision Chamber
+
+# Beam Coolant
+gtnhlanth.tt.coolant.oxygen=§bLiquid Oxygen§f: 90 K
+gtnhlanth.tt.coolant.nitrogen=§bLiquid Nitrogen§f: 77 K
+gtnhlanth.tt.coolant.coolant=§bCoolant§f: 60 K
+gtnhlanth.tt.coolant.Scoolant=§bSuper Coolant§f: 1 K
+
+# Beam Hatches
+gtnhlanth.tt.hatch.beaminput=Beam Input Hatch
+gtnhlanth.tt.hatch.beamoutput=Beam Output Hatch
+gtnhlanth.tt.hatch.beamoutputfiltered=Filtered Beam Output Hatch
+gtnhlanth.tt.hatch.focus=Focus Input Bus
+
+GT5U.gui.text.shutdown_reason.gtnhlanth.nocoolant=No coolant present in machine!
+GT5U.gui.text.shutdown_reason.gtnhlanth.inscoolant=Insufficient coolant in machine!
+GT5U.gui.text.shutdown_reason.gtnhlanth.noaccel=Particle type can't be accelerated!
+GT5U.gui.text.shutdown_reason.gtnhlanth.low_input_eut=Input EU/t too low to produce photons!
+GT5U.gui.text.shutdown_reason.gtnhlanth.scerror=Math error, broken recipe?
+GT5U.gui.text.shutdown_reason.gtnhlanth.inputinterrupt=Input Beam must not be interrupted or changed!
+GT5U.gui.text.recipe_result.dissolution_ratio=§7流体の入力比率が間違っています！
+GT5U.gui.text.recipe_result.gtnhlanth.wrongparticle=粒子が違います！
+GT5U.gui.text.recipe_result.gtnhlanth.toolowenergy=要求電力に達していません！
+GT5U.gui.text.recipe_result.gtnhlanth.toohighenergy=Above Required Energy!
+GT5U.gui.text.shutdown_reason.gtnhlanth.noparticle=Particle absent (rate is 0)!
+GT5U.gui.text.shutdown_reason.gtnhlanth.boostinterrupt=Not enough booster fluid supplied!
+
+# NEI
+value.disstank=比率: %s:1
+
+fluid.Antimony Pentafluoride Solution=五フッ化アンチモン溶液
+fluid.Hafnium Tetrachloride Solution=四塩化ハフニウム溶液
+fluid.Zirconium Tetrachloride Solution=四塩化ジルコニウム溶液
+fluid.Iodine=ヨウ素
+fluid.Muddy Monazite Rare Earth Solution=泥質のモナズ石希土類溶液
+fluid.Diluted Monazite Rare Earth Mud=希薄なモナズ石希土類泥
+fluid.Diluted Monazite Sulfate=希薄な硫酸モナズ石
+fluid.Nitrogenated Monazite Rare Earth Concentrate=窒化モナズ石希土類濃縮液
+fluid.Nitric Monazite Leached Concentrate=硝酸モナズ石浸出濃縮液
+fluid.Ammonium Nitrate Solution=硝酸アンモニウム溶液
+fluid.Seaweed Concentrate=海藻濃縮液
+fluid.Potassium Permanganate Solution=過マンガン酸カリウム溶液
+fluid.Seaweed Byproducts=海藻副産物
+fluid.Nitric-Leached Monazite Mixture=硝酸モナズ石浸出混合液
+fluid.Muddy Bastnasite Rare Earth Solution=泥質のバストネサイト希土類溶液
+fluid.Sodiumfluorosilicate=フルオロケイ酸ナトリウム
+fluid.Steam-Cracked Bastnasite Mud=蒸気で分解されたバストネサイト泥
+fluid.Conditioned Bastnasite Mud=調整したバストネサイト泥
+fluid.Diluted Bastnasite Mud=希薄なバストネサイト泥
+fluid.Filtered Bastnasite Mud=濾過したバストネサイト泥
+fluid.Nitrogenated Bastnasite Rarer Earth Oxides=窒化バストネサイト希少土類酸化物
+fluid.Bastnasite Rarer Earth Oxide Suspension=バストネサイト希少土類酸化物懸濁液
+fluid.Calcium Fluoride=フッ化カルシウム
+fluid.Tetrahydrofuran=テトラヒドロフラン
+"fluid.1,4-Butanediol"="1,4-ブタンジオール"
+"fluid.Acidicised 1,4-Butanediol"="酸性1,4-ブタンジオール"
+fluid.Polytetrahydrofuran=ポリテトラヒドロフラン
+fluid.Tungstophosphoric Acid=リンタングステン酸
+fluid.Toluene Diisocyanate=トルエンジイソシアネート
+fluid.Dinitrotoluene=ジニトロトルエン
+fluid.Diaminotoluene=ジアミノトルエン
+fluid.Toluene Tetramethyl Diisocyanate=トルエンテトラメチルジイソシアネート
+fluid.Diluted Acetone=希アセトン
+
+tile.casing.shielded_accelerator_glass.name=加速器用遮蔽ガラス
+casing.electrode.name=電極外装
+casing.coolant_delivery.name=冷却材搬送用外装
+casing.antenna_t1.name=アンテナ外装 (T1)
+casing.antenna_t2.name=アンテナ外装 (T2)
+casing.niobium_cavity.name=ニオブ製キャビティマシン外装
+casing.focus_manipulator.name=焦点操作器
+casing.focus_holder.name=焦点保持器
+casing.target_receptacle.name=ターゲット受容器
+casing.target_holder.name=ターゲット保持器
+casing.shielded_accelerator.name=加速器用遮蔽外装
+
+item.capillary_exchange.name=熱交換キャピラリー
+item.mm_lattice.name=ミューメタルの格子
+item.iron_quartz_plate.name=鉄クォーツプレート
+item.mask_substrate.name=マスク基板
+item.etched_mask1.name=エッチング済みマスク
+item.substrate_precursor.name=基板前駆体
+item.masked_mask_substrate.name=加工済みマスク基板
+
+
+beamline.info=機械の情報
+beamline.info.hdr=§l機械の情報: §r
+
+beamline.in_pre=マルチブロックのビームライン入力
+beamline.in_pre.hdr=§lマルチブロックのビームライン入力: §r
+beamline.particle=粒子
+beamline.particle.fmt=粒子: §6%s (%s)§r
+beamline.energy=エネルギー
+beamline.energy.eV.fmt=Energy: §4%s§r eV
+beamline.energy.keV.fmt=Energy: §4%s§r keV
+beamline.focus=焦点
+beamline.focus.fmt=Focus: §9%s§r
+beamline.amount=量
+beamline.amount.fmt=Amount: §d%s§r
+beamline.rate=比率
+beamline.materialenergy=Max Material Energy
+beamline.particleenergy=Max Particle Energy
+beamline.energyratio=Energy Ratio
+beamline.temperature=温度
+beamline.temperature.fmt=温度: §4%s§r K
+beamline.coolusage=冷却材使用量
+beamline.coolusage.fmt=冷却材使用量: §b%s§r kL/s
+
+beamline.out_pre=マルチブロックのビームライン出力
+beamline.out_pre.hdr=§lマルチブロックのビームライン出力: §r
+
+gt.blockmachines.beamline_pipe.name=ビームパイプ
+
+beamline.pipe.desc.0=粒子の輸送用
+beamline.pipe.desc.1=ビームは交差させたり曲げたりできません
+
+
+tile.recipe.tc=ターゲットチャンバー
+tile.recipe.sc=粒子源チャンバー
+
+item.particle.name=粒子
+particle.photon=光子
+particle.zboson=Zボソン
+particle.wboson=Wボソン
+particle.higgs=ヒッグス粒子
+particle.graviton=重力子
+particle.electron=電子
+particle.muon=ミュー粒子
+particle.tau=タウ粒子
+particle.electron_neutrino=電子ニュートリノ
+particle.muon_neutrino=ミューニュートリノ
+particle.tau_neutrino=タウニュートリノ
+particle.proton=陽子
+particle.neutron=中性子
+particle.lambda=ラムダ粒子
+particle.omega=オメガ粒子
+particle.eta=イータ中間子
+particle.jpsi=ジェイプサイ中間子
+particle.upsilon=ウプシロン中間子
+particle.alpha=アルファ粒子
+
+beamcrafting.energy_A=min Energy 1
+beamcrafting.energy_B=min Energy 2
+beamcrafting.amount_A=Amount 1
+beamcrafting.amount_B=Amount 2
+
+tooltip.gtnhlanth.particle.rest_mass=静止質量: %f MeV
+tooltip.gtnhlanth.particle.charge=電荷: %s e
+tooltip.gtnhlanth.photomask.desc_spectrum=電磁スペクトルの%s領域およびそれ以下の低周波に対応
+tooltip.gtnhlanth.photomask.max_uses=最大耐久値: %d
+
+# Multiblocks
+gt.blockmachines.digester.name=蒸解釜
+gt.blockmachines.dissolution_tank.name=溶解タンク
+gt.blockmachines.linear_accelerator.name=線形加速器
+gt.blockmachines.source_chamber.name=粒子源チャンバー
+gt.blockmachines.synchrotron.name=シンクロトロン
+gt.blockmachines.target_chamber.name=ターゲットチャンバー
+
+# Photolithographic Masks
+item.photomask.acc.name=マスク (発展型結晶チップ)
+item.photomask.asoc.name=マスク (発展型SoC)
+item.photomask.blank1.name=マスク (T1未加工)
+item.photomask.blank2.name=マスク (T2未加工)
+item.photomask.blank3.name=マスク (T3未加工)
+item.photomask.cblank.name=マスク (結晶)
+item.photomask.ccpu.name=マスク (結晶演算装置)
+item.photomask.cpu.name=マスク (中央演算装置)
+item.photomask.csoc.name=マスク (結晶SoC)
+item.photomask.elc.name=マスク (刻印ラポトロンチップ)
+item.photomask.fpic.name=マスク (FPIC)
+item.photomask.hpic.name=マスク (高電圧パワーIC)
+item.photomask.ilc.name=マスク (集積論理回路)
+item.photomask.lcc.name=マスク (生きている結晶チップ)
+item.photomask.lpic.name=マスク (低電圧パワーIC)
+item.photomask.nand.name=マスク (NAND)
+item.photomask.ncpu.name=マスク (ナノCPU)
+item.photomask.nor.name=マスク (NOR)
+item.photomask.npic.name=マスク (ナノパワーIC)
+item.photomask.pic.name=マスク (パワーIC)
+item.photomask.ppic.name=マスク (PPIC)
+item.photomask.prcpu.name=マスク (処理済み中央演算装置)
+item.photomask.prhpic.name=マスク (処理済み高電圧パワーIC)
+item.photomask.prncpu.name=マスク (処理済みナノCPU)
+item.photomask.prnpic.name=マスク (処理済みナノパワーIC)
+item.photomask.prpic.name=マスク (処理済みパワーIC)
+item.photomask.prqpic.name=マスク (処理済みクアンタムパワーIC)
+item.photomask.qbit.name=マスク (QBit)
+item.photomask.qpic.name=マスク (QPIC)
+item.photomask.ram.name=マスク (ランダムアクセスメモリー)
+item.photomask.soc.name=マスク (SoC)
+item.photomask.ssoc.name=マスク (シンプルSoC)
+item.photomask.uhpic.name=マスク (超高電圧パワーIC)
+item.photomask.ulpic.name=マスク (超低電圧パワーIC)

@@ -1,0 +1,8 @@
+name = "Minecraft-Backpack-Mod"
+filename = "backpack-2.6.18-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Minecraft-Backpack-Mod/releases/download/2.6.18-GTNH/backpack-2.6.18-GTNH.jar"
+hash-format = "sha256"
+hash = "dd1a3da151f3f74bd802da3e84d65cc82adbd6f096cdbcc866c9e3e51d5c72b3"

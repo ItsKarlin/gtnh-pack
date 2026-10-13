@@ -1,0 +1,68 @@
+ggfab.waila.advassline.slice=Секция #%s: %s с / %s с
+ggfab.waila.advassline.slice.small=Секция #%s: %s тик(ов) / %s тик(ов)
+ggfab.waila.advassline.slice.idle=Секция #%s: Бездействует
+ggfab.waila.advassline.slice.stuck=Секция #%s: §4ЗАСТРЯЛ
+ggfab.gui.advassline.slice.idle=Секция #%s: Бездействует
+ggfab.gui.advassline.slice.stuck=Секция #%s: §4ЗАСТРЯЛ
+ggfab.gui.advassline.slice.unknown=Секция #%s: ?
+ggfab.gui.advassline.shutdown=§4Последняя причина нештатного выключения:
+ggfab.gui.advassline.shutdown_clear=§6Очистить
+ggfab.gui.advassline.shutdown.input_buses=§4Слишком мало входных люков для поддержки текущего рецепта
+ggfab.gui.advassline.shutdown.recipe_null=§4Рецепт недействителен (сообщить автору)
+ggfab.gui.advassline.shutdown.fluid_null=§4Слив жидкости не удался (проверьте ваше МЭ жидкостное хранилище)
+ggfab.gui.advassline.shutdown.structure=§4Несовместимые структурные изменения
+ggfab.gui.advassline.shutdown.energy=§4Недостаточно энергии
+ggfab.gui.advassline.shutdown.load.energy=§4Загружена недействительная электрическая статистика
+ggfab.gui.advassline.shutdown.load.recipe=§4Несовместимое изменение рецепта
+
+ggfab.info.linked_input_bus.not_owned=§6Настройки были скопированы другим пользователем!
+ggfab.info.linked_input_bus.no_data=§6Данные конфигурации не найдены!
+ggfab.info.linked_input_bus.invalid_data=§6Данные конфигурации найдены, но они недействительны!
+ggfab.info.linked_input_bus.invalid_circuit=§6Данные конфигурации найдены, но они содержат схему недопустимую для этого люка!
+ggfab.info.linked_input_bus.data_pasted=§2Вставлен канал ("%s§2") и настройка схемы конфигурации!
+ggfab.info.linked_input_bus.data_copied=§2Скопирован канал ("%s§2") и настройка схемы конфигурации!
+ggfab.info.linked_input_bus.no_channel=§6Канал пока не указан!
+
+ggfab.info.biome=Биом:
+
+ggfab.tooltip.linked_input_bus.change_freq_warn=Если переключить канал, пока он последний, то все оставшиеся предметы выпадут!
+ggfab.tooltip.linked_input_bus.private=Приватные каналы не передается другим пользователям.
+ggfab.tooltip.linked_input_bus.private.1=Если переключить канал, пока он последний, то все оставшиеся предметы выпадут!
+
+ggfab.gui.linked_input_bus.private=Приватный
+ggfab.gui.linked_input_bus.channel=Канал
+
+# Advanced Assembly Line tooltip
+ggfab.tt.advassline.machine_type=Сборочная линия, AAL
+ggfab.tt.advassline.structure.controller=Первая секция, слой 3
+ggfab.tt.advassline.structure.data_access_location=Любой вентиляционный корпус механизма, кроме первого слоя
+ggfab.tt.advassline.structure.energy_location=Любой корпус 4-го слоя
+ggfab.tt.advassline.structure.layer1_side_casing=Любой боковой корпус 1-го слоя
+ggfab.tt.advassline.structure.input_bus_location=Нижний центр каждого слоя
+ggfab.tt.advassline.structure.output_bus_location=Любой корпус 1-го слоя на последнем срезе
+ggfab.tt.advassline.structure.layer4=§fСлой 4: §7Пусто, прочный стальной корпус, пусто
+ggfab.tt.advassline.structure.layer3=§fСлой 3: §7Вентиляционный корпус, корпус сборочной машины, вентиляционный корпус
+ggfab.tt.advassline.structure.layer2=§fСлой 2: §7Стекло любого тира, корпус сборочной линии, стекло любого тира
+ggfab.tt.advassline.structure.layer1=§fСлой 1: §7Прочный стальной корпус, входной люк, прочный стальной корпус
+ggfab.tt.advassline.structure.footer=До 16 срезов всего, каждый дополнительный срез позволяет добавить ещё 1 предмет в рецепты
+
+# Multiblocks
+gt.blockmachines.ggfab.machine.adv_assline.name=Продвинутая сборочная линия
+
+# Single use tools
+gt.ggfab.d1.0.name=Одноразовый напильник
+gt.ggfab.d1.1.name=Одноразовый ключ
+gt.ggfab.d1.2.name=Одноразовая монтировка
+gt.ggfab.d1.3.name=Одноразовые кусачки
+gt.ggfab.d1.30.name=Форма (Одноразовый напильник)
+gt.ggfab.d1.31.name=Форма (Одноразовый ключ)
+gt.ggfab.d1.32.name=Форма (Одноразовая монтировка)
+gt.ggfab.d1.33.name=Форма (Одноразовые кусачки)
+gt.ggfab.d1.34.name=Форма (Одноразовый молоток)
+gt.ggfab.d1.35.name=Форма (Одноразовая киянка)
+gt.ggfab.d1.36.name=Форма (Одноразовая отвёртка)
+gt.ggfab.d1.37.name=Форма (Одноразовая пила)
+gt.ggfab.d1.4.name=Одноразовый молоток
+gt.ggfab.d1.5.name=Одноразовая киянка
+gt.ggfab.d1.6.name=Одноразовая отвёртка
+gt.ggfab.d1.7.name=Одноразовая пила

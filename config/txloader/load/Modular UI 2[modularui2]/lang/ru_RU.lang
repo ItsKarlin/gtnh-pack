@@ -1,0 +1,65 @@
+modularui2.test=Тестовый текст\n2. Линия
+modularui2.tooltip.shift=§bУдерживайте Shift
+modularui2.increment.tooltip=§7Нажмите, чтобы увеличить число на §6%d§7\nУдерживайте Shift[§6%d§7], Ctrl[§6%d§7] или Shift+Ctrl[§6%d§7]
+modularui2.decrement.tooltip=§7Нажмите, чтобы уменьшить число на §6%d§7\nУдерживайте Shift[§6%d§7], Ctrl[§6%d§7] или Shift+Ctrl[§6%d§7]
+modularui2.amount=§9Количество: %,d
+modularui2.fluid.capacity=§9Ёмкость: %s %s
+modularui2.fluid.empty=Пусто
+modularui2.fluid.amount=§9Количество: %s/%s %s
+modularui2.fluid.phantom.amount=§9Количество: %s %s
+modularui2.fluid.phantom.control=§7Колесо прокрутки вверх увеличивает количество, вниз - уменьшает.\n§7Shift[§6x10§7],Ctrl[§ex100§7],Alt[§ax1000§7]\n§7ПКМ увеличивает количество, ЛКМ - уменьшает.\n§7Shift+ЛКМ для очистки.
+modularui2.fluid.phantom.clear=§8ЛКМ, чтобы удалить
+modularui2.fluid.registry=§7Реестр: %s
+modularui2.fluid.unique_registry=§7Уникальный ключ реестра: %s
+modularui2.fluid.temperature=§cТемпература: %,d K
+modularui2.fluid.state=§aСостояние: %s
+modularui2.fluid.gas=Газ
+modularui2.fluid.liquid=Жидкость
+modularui2.item.phantom.control=§7Колесо прокрутки вверх увеличивает количество, вниз - уменьшает.\n§7Shift[§6x4§7],Ctrl[§ex16§7],Alt[§ax64§7]\n§7ПКМ увеличивает количество, ЛКМ - уменьшает.\n§7Shift+ЛКМ для очистки.
+
+modularui2.fluid.click_to_fill=§bЛКМ §7по контейнеру с жидкостью, чтобы §bнаполнить §7резервуар.\n§cПКМ §7для обработки одного предмета за клик.
+modularui2.fluid.click_combined=§bЛКМ §7по контейнеру с жидкостью, чтобы §cопустошить §7или §bнаполнить §7резервуар.\n§cПКМ §7для обработки одного предмета за клик.
+modularui2.fluid.click_to_empty=§bЛКМ §7по контейнеру с жидкостью, чтобы §cопустошить §7резервуар.\n§cПКМ §7для обработки одного предмета за клик.
+
+# Debug Screen
+modularui2.debug.mouse_pos=§7Позиция мыши: §3%d§7, §3%d
+modularui2.debug.fps=§7FPS: §3%d
+modularui2.debug.theme_id=§7ID Темы: §6%s
+modularui2.debug.widget_theme=§7Тема виджета: §6%s
+modularui2.debug.size=§7Размер: §3%d§7, §3%d
+modularui2.debug.pos_rel=§7Поз: §3%d§7, §3%d§7  Отн: §3%d§7, §3%d
+modularui2.debug.widget=§7Виджет: §6%s
+modularui2.debug.parent_size=§7Род. размер: §3%d§7, §3%d
+modularui2.debug.parent_pos_rel=§7Род. поз: §3%d§7, §3%d§7  Отн: §3%d§7, §3%d
+modularui2.debug.parent=§7Род: §6%s
+modularui2.debug.slot_index=§7Индекс слота: §3%d
+modularui2.debug.slot_number=§7Номер слота: §3%d
+modularui2.debug.shift_click_priority=Приоритет Shift-ПКМ: §3%d
+modularui2.debug.disabled=§cОТКЛЮЧЕНО
+modularui2.debug.hovered=§7Под курсором: §6%s
+
+# Config
+modularui2.config.default_scroll_speed=Скорость прокрутки
+modularui2.config.default_scroll_speed.tooltip=Количество прокручиваемых пикселей
+modularui2.config.smooth_progress_bar=Плавная полоса прогресса
+modularui2.config.smooth_progress_bar.tooltip=Должна ли полоса прогресса изменяться по пикселям текстуры или экрана.\n(Экранные пиксели намного меньше, поэтому анимация будет плавнее)
+modularui2.config.tooltip_pos=Позиция подсказки
+modularui2.config.tooltip_pos.tooltip=Позиция подсказки по умолчанию относительно виджета или его панели.
+modularui2.config.esc_restore_last_text=ESC восстанавливает последний текст
+modularui2.config.esc_restore_last_text.tooltip=Если включено, нажатие ESC в текстовом поле восстановит предыдущий текст вместо подтверждения текущего.
+modularui2.config.show_slot_overlay=Показывать оверлей слота
+modularui2.config.show_slot_overlay.tooltip=Если включено, отображает оверлей слота, когда он занят.
+modularui2.config.gui_debug_mode=Режим отладки GUI
+modularui2.config.gui_debug_mode.tooltip=Если включено, будут отображаться контуры виджетов и информация о них.
+modularui2.config.use_dark_theme_by_default=Использовать тёмную тему по умолчанию
+modularui2.config.use_dark_theme_by_default.tooltip=Если включено и не указано иное, экраны будут пытаться использовать тему "vanilla_dark".
+modularui2.config.debug_text_color=Цвет отладочного текста
+modularui2.config.debug_text_color.tooltip=Цвет отладочного текста. Hex-значения должны начинаться с #. Распространённые цвета можно указывать по имени.
+modularui2.config.debug_outline_color=Цвет отладочного контура
+modularui2.config.debug_outline_color.tooltip=Цвет отладочного контура. Hex-значения должны начинаться с #. Распространённые цвета можно указывать по имени.
+modularui2.config.enable_test_guis=Включить тестовые GUI
+modularui2.config.enable_test_guis.tooltip=Включает тестовый блок, тестовый предмет с тестовым GUI и открытие GUI по ПКМ на алмаз.
+modularui2.config.enable_test_overlays=Включить тестовые оверлеи
+modularui2.config.enable_test_overlays.tooltip=Включает тестовый оверлей на главном экране и водяной знак в каждом GuiContainer.
+# modularui2.config.use_rich_tooltips=Enable RichTooltip
+# modularui2.config.use_rich_tooltips.tooltip=If true, vanilla tooltip will be replaced with MUI's RichTooltip

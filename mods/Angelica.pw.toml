@@ -1,0 +1,8 @@
+name = "Angelica"
+filename = "angelica-2.2.28.jar"
+side = "client"
+
+[download]
+url = "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.28/angelica-2.2.28.jar"
+hash-format = "sha256"
+hash = "e1bcfe53dfb78a2ca06475058b9dd9b856d058cf413b11813ee78cd79b23b807"

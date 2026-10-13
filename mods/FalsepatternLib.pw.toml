@@ -1,0 +1,8 @@
+name = "FalsepatternLib"
+filename = "falsepatternlib-mc1.7.10-1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8169/770/falsepatternlib-mc1.7.10-1.12.2.jar"
+hash-format = "sha256"
+hash = "bc92d152b2036324b98df0f4510b76b94826b57610f96177e74387b3f399cf39"

@@ -1,0 +1,8 @@
+name = "NotEnoughItems"
+filename = "NotEnoughItems-2.8.155-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.155-GTNH/NotEnoughItems-2.8.155-GTNH.jar"
+hash-format = "sha256"
+hash = "2a3a2ae5a60ddd4a2a50ead5ea6a00896440ed22d6f313e1aca2aaf63498143d"

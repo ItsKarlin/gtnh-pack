@@ -1,0 +1,8 @@
+name = "ThaumicHorizons"
+filename = "ThaumicHorizons-1.8.27.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.8.27/ThaumicHorizons-1.8.27.jar"
+hash-format = "sha256"
+hash = "a484be1ec5c797a5ad76ac2991d3b6b22ca85780587c5aa87ae6c2f759fd14bf"

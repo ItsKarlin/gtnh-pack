@@ -1,0 +1,8 @@
+name = "ThaumicBoots"
+filename = "thaumicboots-1.5.13.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/ThaumicBoots/releases/download/1.5.13/thaumicboots-1.5.13.jar"
+hash-format = "sha256"
+hash = "753a9589b128c86fcd24bccfe13f4fc83d25e2efbfc832031e948d8bcac6206e"

@@ -1,0 +1,8 @@
+name = "GregoryTweaksForCrafting"
+filename = "craftingtweaks-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/GregoryTweaksForCrafting/releases/download/1.0.3/craftingtweaks-1.0.3.jar"
+hash-format = "sha256"
+hash = "36425fb80523d3f9ff61c686638476de7257e68c4cc2f3ccbec5f7a16aa4346a"

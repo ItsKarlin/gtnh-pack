@@ -1,0 +1,8 @@
+name = "ArchitectureCraft"
+filename = "ArchitectureCraft-1.12.18.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/ArchitectureCraft/releases/download/1.12.18/ArchitectureCraft-1.12.18.jar"
+hash-format = "sha256"
+hash = "a36c1ac9db58be8ae341e86ce8c569b3170f4a4688f0f1fd6fedbae38c916764"

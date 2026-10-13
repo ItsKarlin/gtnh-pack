@@ -1,0 +1,68 @@
+ggfab.waila.advassline.slice=%s列目: %s s / %s s
+ggfab.waila.advassline.slice.small=%s列目: %s ticks / %s ticks
+ggfab.waila.advassline.slice.idle=%s列目: 待機中
+ggfab.waila.advassline.slice.stuck=%s列目: §4停止中
+ggfab.gui.advassline.slice.idle=%s列目: 待機中
+ggfab.gui.advassline.slice.stuck=%s列目: §4停止中
+ggfab.gui.advassline.slice.unknown=%s列目: ?
+ggfab.gui.advassline.shutdown=§4直近の異常シャットダウン要因:
+ggfab.gui.advassline.shutdown_clear=§6クリア
+ggfab.gui.advassline.shutdown.input_buses=§4入力バスが不足しているため現在のレシピを実行できません
+ggfab.gui.advassline.shutdown.recipe_null=§4レシピが無効です (作者に報告してください)
+ggfab.gui.advassline.shutdown.fluid_null=§4流体の引き出しに失敗しました (ME流体ストレージを確認してください)
+ggfab.gui.advassline.shutdown.structure=§4不適合な構造変更
+ggfab.gui.advassline.shutdown.energy=§4電力不足
+ggfab.gui.advassline.shutdown.load.energy=§4無効な電気状態が読み込まれました
+ggfab.gui.advassline.shutdown.load.recipe=§4不適合なレシピ変更
+
+ggfab.info.linked_input_bus.not_owned=§6この設定は別の管理者によってコピーされたものです！
+ggfab.info.linked_input_bus.no_data=§6設定データが見つかりません！
+ggfab.info.linked_input_bus.invalid_data=§6設定データが見つかりましたが、無効です！
+ggfab.info.linked_input_bus.invalid_circuit=§6設定データは見つかりましたが、バスに有効ではない回路が含まれています！
+ggfab.info.linked_input_bus.data_pasted=§2チャンネル ("%s§2") とプログラム回路の設定をペーストしました！
+ggfab.info.linked_input_bus.data_copied=§2チャンネル ("%s§2") とプログラム回路の設定をコピーしました！
+ggfab.info.linked_input_bus.no_channel=§6チャンネルが指定されていません！
+
+ggfab.info.biome=バイオーム:
+
+ggfab.tooltip.linked_input_bus.change_freq_warn=このチャンネルが設定された§8《§7接続入力バス§8／Linked Input Bus》§7がワールド内から無くなると、中身のアイテムが放出されます！
+ggfab.tooltip.linked_input_bus.private=非公開チャンネルは他人と共有できません。
+ggfab.tooltip.linked_input_bus.private.1=このチャンネルが設定された§8《§7接続入力バス§8／Linked Input Bus》§7がワールド内から無くなると、中身のアイテムが放出されます！
+
+ggfab.gui.linked_input_bus.private=非公開
+ggfab.gui.linked_input_bus.channel=チャンネル
+
+# Advanced Assembly Line tooltip
+ggfab.tt.advassline.machine_type=§8《§e組立ライン§8／Assembly Line》§e, AAL
+ggfab.tt.advassline.structure.controller=First slice, 3rd layer
+ggfab.tt.advassline.structure.data_access_location=Any grate machine casing NOT on first slice
+ggfab.tt.advassline.structure.energy_location=Any layer 4 casing
+ggfab.tt.advassline.structure.layer1_side_casing=Any layer 1 side casing
+ggfab.tt.advassline.structure.input_bus_location=Bottom center of each slice
+ggfab.tt.advassline.structure.output_bus_location=Any layer 1 casing on last slice
+ggfab.tt.advassline.structure.layer4=§fLayer 4: §7Empty, Solid Steel Machine Casing, Empty
+ggfab.tt.advassline.structure.layer3=§fLayer 3: §7Grate Machine Casing, Assembler Machine Casing, Grate Machine Casing
+ggfab.tt.advassline.structure.layer2=§fLayer 2: §7Any Tiered Glass, Assembly Line Casing, Any Tiered Glass
+ggfab.tt.advassline.structure.layer1=§fLayer 1: §7Solid Steel Machine Casing, Input Bus, Solid Steel Machine Casing
+ggfab.tt.advassline.structure.footer=Up to 16 total slices, each one allows for 1 more item in recipes
+
+# Multiblocks
+gt.blockmachines.ggfab.machine.adv_assline.name=発展型組立ライン
+
+# Single use tools
+gt.ggfab.d1.0.name=使い捨てヤスリ
+gt.ggfab.d1.1.name=使い捨てレンチ
+gt.ggfab.d1.2.name=使い捨てバール
+gt.ggfab.d1.3.name=使い捨てワイヤーカッター
+gt.ggfab.d1.30.name=型 (使い捨てヤスリ)
+gt.ggfab.d1.31.name=型 (使い捨てレンチ)
+gt.ggfab.d1.32.name=型 (使い捨てバール)
+gt.ggfab.d1.33.name=型 (使い捨てワイヤーカッター)
+gt.ggfab.d1.34.name=型 (使い捨てハンマー)
+gt.ggfab.d1.35.name=型 (使い捨てソフトマレット)
+gt.ggfab.d1.36.name=型 (使い捨てドライバー)
+gt.ggfab.d1.37.name=型 (使い捨てノコギリ)
+gt.ggfab.d1.4.name=使い捨てハンマー
+gt.ggfab.d1.5.name=使い捨てソフトマレット
+gt.ggfab.d1.6.name=使い捨てドライバー
+gt.ggfab.d1.7.name=使い捨てノコギリ

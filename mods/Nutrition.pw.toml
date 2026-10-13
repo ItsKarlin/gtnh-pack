@@ -1,0 +1,8 @@
+name = "Nutrition"
+filename = "nutrition-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Nutrition/releases/download/1.0.1/nutrition-1.0.1.jar"
+hash-format = "sha256"
+hash = "4d776cf8ba938d861cac8778fcb763216b46ea713ec27f62ac478b85671b4fb3"

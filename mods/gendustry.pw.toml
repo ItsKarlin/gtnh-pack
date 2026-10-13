@@ -1,0 +1,8 @@
+name = "gendustry"
+filename = "gendustry-1.9.13-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/gendustry/releases/download/1.9.13-GTNH/gendustry-1.9.13-GTNH.jar"
+hash-format = "sha256"
+hash = "ff90d1e17189d09447a41ac684d98b8352f0665b4e42390108e237409a590efa"

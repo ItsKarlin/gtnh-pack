@@ -1,0 +1,12 @@
+{gray:{hr}}
+{gold:普通作物：}
+最低电压等级：{var:minVoltageTier}
+初始槽位数：{var:startingSlotCount}
+{var:minVoltageTier}后的每个等级槽位数×{var:slotPerTierMultiplier}
+每槽为总种子容量增加{var:seedCapacityPerSlot}株作物
+基础运行时间：5秒
+实际运行时间=基础运行时间/超出{var:minVoltageTierMinus1}的等级数（最低1秒）
+有作物将在运行结束时完成生长
+不会掉落种子
+每株作物每周期至多消耗{var:maxFertilizerUsagePerSeed}份肥料
+每份肥料加速：{var:fertilizerBonus}

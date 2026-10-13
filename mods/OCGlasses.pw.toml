@@ -1,0 +1,8 @@
+name = "OCGlasses"
+filename = "OpenGlasses-1.6.9-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/OCGlasses/releases/download/1.6.9-GTNH/OpenGlasses-1.6.9-GTNH.jar"
+hash-format = "sha256"
+hash = "dfaa33b17d2493653fa256476c7127cc1f5f64b83c8ded0ec07b4439362b177a"

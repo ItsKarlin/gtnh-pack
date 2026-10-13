@@ -1,0 +1,8 @@
+name = "BuildCraft"
+filename = "buildcraft-7.1.64.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.64/buildcraft-7.1.64.jar"
+hash-format = "sha256"
+hash = "be50057c491745f0da3531483f1c5379576ff65cdce861c9ae7d07a747aa4be8"

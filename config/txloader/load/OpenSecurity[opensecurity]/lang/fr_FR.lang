@@ -1,0 +1,39 @@
+//Blocks
+tile.alarm.name=Alarme
+tile.rfidreader.name=Lecteur RFID
+tile.cardwriter.name=Encodeur de cartes
+tile.magreader.name=Lecteur de cartes magnétiques
+tile.entitydetector.name=Détecteur d'entités
+tile.doorController.name=Contrôleur de porte
+tile.datablock.name=Bloc de données
+tile.switchablehub.name=Concentrateur commutable
+tile.displaypanel.name=Panneau d'affichage
+tile.kvm.name=Commutateur KVM
+tile.energyTurret.name=Tourelle énergétique
+tile.keypadlock.name=Pavé numérique
+tile.biometricreader.name=Lecteur biométrique
+//items
+item.rfidCard.name=Carte RFID
+item.magCard.name=Carte à bande magnétique
+item.rfidReaderCard.name=Carte de lecteur RFID
+item.secureNetworkCard.name=Carte réseau sécurisée
+item.securityDoor.name=Porte de sécurité
+tile.securityDoor.name=Porte de sécurité
+item.securityDoorPrivate.name=Porte de sécurité privée
+item.damageUpgrade.name=Amélioration des dégâts
+item.movementUpgrade.name=Amélioration de mobilité
+item.energyUpgrade.name=Amélioration énergétique
+item.cooldownUpgrade.name=Amélioration du temps de recharge
+itemGroup.OpenSecurity=OpenSecurity
+//guis
+gui.string.cardwriter=Encodeur de cartes
+gui.string.cardslot=Emplacement de carte
+gui.string.kvm=Contrôle du commutateur KVM
+gui.string.energyturret=Tourelle énergétique
+gui.string.energyturret.damagemod=+Dégâts
+gui.string.energyturret.movementmod=+Mobilité
+gui.string.energyturret.cooldownmod=-Temps de recharge
+gui.string.energyturret.energymod=-Énergie
+//OpenUpdater
+opensecurity.uptodate=OpenSecurity est à jour
+opensecurity.outdated=OpenSecurity n'est pas à jour

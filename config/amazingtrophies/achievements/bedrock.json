@@ -1,0 +1,13 @@
+{
+  "id": "bedrock",
+  "condition": {
+    "type": "inventory.add",
+    "item": "minecraft:bedrock"
+  },
+  "page": "GT New Horizons",
+  "x": 9,
+  "y": 6,
+  "icon": {
+    "registryName": "minecraft:bedrock"
+  }
+}

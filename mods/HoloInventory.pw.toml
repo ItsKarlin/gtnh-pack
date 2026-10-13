@@ -1,0 +1,8 @@
+name = "HoloInventory"
+filename = "holoinventory-2.5.17-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/HoloInventory/releases/download/2.5.17-GTNH/holoinventory-2.5.17-GTNH.jar"
+hash-format = "sha256"
+hash = "d5c37a1caf311a3d7b586f65c52e38011f596c28a39a9e2502ff23451078cae0"

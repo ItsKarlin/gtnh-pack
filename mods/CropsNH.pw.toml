@@ -1,0 +1,8 @@
+name = "CropsNH"
+filename = "cropsnh-2.0.134.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.134/cropsnh-2.0.134.jar"
+hash-format = "sha256"
+hash = "4006e8e388cc7018a3e9566a5cab805e5fcbfd664e8601e792ba4c10f20778b7"

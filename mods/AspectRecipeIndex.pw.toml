@@ -1,0 +1,8 @@
+name = "AspectRecipeIndex"
+filename = "aspectrecipeindex-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/AspectRecipeIndex/releases/download/1.1.5/aspectrecipeindex-1.1.5.jar"
+hash-format = "sha256"
+hash = "cd9d6559016334b1f8c72bc4a54837d589c1c7ff6b16d7eabc3414efc4ca4c83"

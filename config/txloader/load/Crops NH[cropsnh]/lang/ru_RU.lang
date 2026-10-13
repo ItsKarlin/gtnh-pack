@@ -1,0 +1,948 @@
+# Creative Tabs
+itemGroup.cropsnh=Crops NH
+
+# Generic Items
+item.cropsnh:cropSticksItem.name=Жёрдочки
+item.cropsnh:plantLens.name=Лупа садовода
+item.cropsnh:spade.name=Лопатка садовода
+item.cropsnh:reinforcedSpade.name=Усиленная лопатка садовода
+item.cropsnh:plantCure.name=Лекарство для растений
+item.cropsnh:weedEX.name=Гербицид
+item.cropsnh:fertilizer.name=Удобрение
+item.cropsnh:poisonPowder.name=Токсичная пыль
+item.cropsnh:hempHurd.name=Измельчённые конопляные стебли
+item.cropsnh:sulfurDopedPlumbiliaResidue.name=Серосодержащий остаток Плюмбилии
+item.cropsnh:sulfurDopedGalvaniaResidue.name=Серосодержащий остаток Гальвании
+
+# Alcohol Bottles
+item.cropsnh:DKorn.bottled.name=Доппелькорн в бутылке
+item.cropsnh:Korn.bottled.name=Корн в бутылке
+item.cropsnh:FWheat.bottled.name=Ферментированная пшеница в бутылке
+item.cropsnh:FReed.bottled.name=Ферментированная тростниковая вода в бутылке
+item.cropsnh:SWhine.bottled.name=Сладкое вино в бутылке
+item.cropsnh:Mash.bottled.name=Сусло в бутылке
+item.cropsnh:Wash.bottled.name=Ферментированное сусло в бутылке
+item.cropsnh:GHP.bottled.name=Высокопробное вино в бутылке
+item.cropsnh:jagi.bottled.name=Настоящий Егермейстер в бутылке!
+item.cropsnh:njagi.bottled.name=Поддельный Егермейстер в бутылке
+
+# Stone Mug Coffees
+item.cropsnh:stoneMug.name=Каменная кружка
+item.cropsnh:coffeeCold.name=Холодный кофе
+item.cropsnh:coffeeDark.name=Тёмный кофе
+item.cropsnh:coffee.name=Кофе
+
+# Crop Produce Items
+item.cropsnh:gaiaWart.name=Земляной нарост
+item.cropsnh:goldfish.name=Золотая рыбка
+item.cropsnh:berry.huckle.name=Гекльберри
+item.cropsnh:berry.sugarbeet.name=Сахарная свёкла
+item.cropsnh:berry.maxTomato.name=Максимальный томат
+item.cropsnh:materialLeaf.error.name=§c[ERROR]§r Неизвестные листья
+item.cropsnh:materialLeaf.bauxiaLeaf.name=Лист Бауксии
+item.cropsnh:materialLeaf.canolaFlower.name=Цветы Рапса
+item.cropsnh:materialLeaf.copponFiber.name=Медное волокно
+item.cropsnh:materialLeaf.galvaniaLeaf.name=Лист Гальвании
+item.cropsnh:materialLeaf.indigoBlossom.name=Цветок Индиго
+item.cropsnh:materialLeaf.iridineFlower.name=Лист Иридина
+item.cropsnh:materialLeaf.magicEssence.name=Магическая эссенция
+item.cropsnh:materialLeaf.micadiaFlower.name=Ветка Микадии
+item.cropsnh:materialLeaf.milkWart.name=Молочный нарост
+item.cropsnh:materialLeaf.nickelbackLeaf.name=Пятицентовик
+item.cropsnh:materialLeaf.oilBerry.name=Нефтяная ягода
+item.cropsnh:materialLeaf.osmianthFlower.name=Цветок Осмианта
+item.cropsnh:materialLeaf.platinaLeaf.name=Лист Платинии
+item.cropsnh:materialLeaf.pyrolusiumLeaf.name=Лист Пиролизии
+item.cropsnh:materialLeaf.reactoriaLeaf.name=Лист Реактории
+item.cropsnh:materialLeaf.reactoriaStem.name=Стебль Реактории
+item.cropsnh:materialLeaf.scheeliniumLeaf.name=Лист шилинии
+item.cropsnh:materialLeaf.spaceFlower.name=Космический цветок
+item.cropsnh:materialLeaf.stargatiumLeaf.name=Лист Старгейтия
+item.cropsnh:materialLeaf.thunderFlower.name=Громовой цветок
+item.cropsnh:materialLeaf.tineTwig.name=Шипастая ветка
+item.cropsnh:materialLeaf.titaniaLeaf.name=Лист Титании
+item.cropsnh:materialLeaf.uuaBerry.name=UUA ягода
+item.cropsnh:materialLeaf.uumBerry.name=UUM ягода
+item.cropsnh:materialLeaf.saltyRoot.name=Солевой корень
+item.cropsnh:materialLeaf.plumbiliaLeaf.name=Лист Плюмбилии
+item.cropsnh:materialLeaf.argentiaLeaf.name=Лист Аргентии
+item.cropsnh:materialLeaf.ferrofernLeaf.name=Лист Феррофернии
+item.cropsnh:materialLeaf.auroniaLeaf.name=Лист Ауронии
+item.cropsnh:materialLeaf.bobsYerUncleBerry.name=Бобы дядюшки Боба
+item.cropsnh:materialLeaf.starWart.name=Звездный нарост
+item.cropsnh:materialLeaf.hops.name=Хмель
+item.cropsnh:materialLeaf.hempStem.name=Стебель конопли
+item.cropsnh:materialLeaf.thiosulfineFlower.name=Цветок Тиосульфина
+# Environmental Module Items
+item.cropsnh:environmentalModule.blank=Пустой экологический модуль
+item.cropsnh:environmentalModule.template=Экологический модуль (%1$s)
+
+# Blocks
+tile.cropsnh:cropSticks.name=Жёрдочки
+cropsnh.casings1.0.name=Кирпичный сельскохозяйственный корпус
+
+# Fluids
+fluid.cropsnh.enrichedFertilizer=Обогащённое удобрение
+fluid.cropsnh.fertilizer=Удобрение
+fluid.cropsnh:DKorn=Доппелькорн
+fluid.cropsnh:Korn=Корн
+fluid.cropsnh:FWheat=Ферментированная пшеница
+fluid.cropsnh:FReed=Ферментированная тростниковая вода
+fluid.cropsnh:SWhine=Сладкое вино
+fluid.cropsnh:Mash=Сусло
+fluid.cropsnh:Wash=Ферментированное сусло
+fluid.cropsnh:GHP=Высокопробное вино
+fluid.cropsnh:jagi=Настоящий Егермейстер
+fluid.cropsnh:njagi=Поддельный Егермейстер
+
+# Damage
+death.attack.cropsnh:heartAttack=%1$s выпил слишком много кофе
+death.attack.cropsnh:heartAttack.player=%1$s перенес сердечный приступ во время боя с %2$s
+
+# Tooltips
+cropsnh_tooltip.plantLens.weeds=Сорняки -- §cЖГИ ИХ§r
+cropsnh_tooltip.plantLens.seed=Семя: %1$s
+cropsnh_tooltip.plantLens.empty=Ничего не посажено
+cropsnh_tooltip.plantLens.isSick=§cБолеет, не может расти!§r
+cropsnh_tooltip.plantLens.soil=Почва -- Удобрение: %1$s  Вода: %2$s  Хим. защита: %3$s
+cropsnh_tooltip.plantLens.stats=Статистика -- Рост: %1$s  Урожайность: %2$s  Устойчивость: %3$s
+cropsnh_tooltip.genericSeed.scanToViewStats=§7Отсканируйте, чтобы увидеть характеристики§r
+cropsnh_tooltip.genericSeed.growth=§a- Рост: %1$s§r
+cropsnh_tooltip.genericSeed.gain=§a- Урожайность: %1$s§r
+cropsnh_tooltip.genericSeed.resistance=§a- Устойчивость: %1$s§r
+cropsnh_tooltip.genericSeed.minSeedBedTier=Минимальный тир грядки: %1$s
+cropsnh_tooltip.genericSeed.cannotBreedOnSticks=This crop cannot breed with other crops using crop sticks
+cropsnh_tooltip.genericSeed.cannotSpreadToOtherSticks.0=This crop cannot spread itself to nearby crop sticks
+cropsnh_tooltip.genericSeed.cannotSpreadToOtherSticks.1=You need a crop synthesizer to improve or duplicate it
+cropsnh_tooltip.genericSeed.mustUseBreederMachine=Можно скрещивать только в селекционере культур
+cropsnh_tooltip.item.plantLens=Используется для осмотра культур
+cropsnh_tooltip.item.spade=Удаляет сорняки и выбивает семена при сборе созревшего урожая
+cropsnh_tooltip.item.reinforcedSpade=Удаляет сорняки и выбивает больше семян при сборе созревшего урожая
+cropsnh_tooltip.item.gaiaWart=При съедении снимает большинство негативных эффектов
+# the color coding here can only be done via waila because the chat component handling of formatted strings is ehh bad 
+cropsnh_tooltip.waila.cropStick.failedReq=§c%1$s§r
+cropsnh_tooltip.waila.cropStick.progressBar.scanned=%1$s / %2$s (%3$,.1f%%)
+cropsnh_tooltip.waila.cropStick.progressBar.notScanned=%1$,.1f%%
+cropsnh_tooltip.planting.wrongSoil=Этой культуре нужна другая почва (проверьте варианты использования в NEI)
+
+# GT5u Scanner Section Header
+GT5U.scanner.title_crops=Информация о культуре
+
+# Structure Channel Descriptions
+cropsnh_tooltip.structure_channels.if_tier=Определяет тир Промышленной фермы
+cropsnh_tooltip.structure_channels.if_upgrade=Включает размещение апгрейдов Промышленной фермы
+
+# Biome Tags
+cropsnh_tooltip.biomeTag.HOT=Горячий
+cropsnh_tooltip.biomeTag.COLD=Холодный
+cropsnh_tooltip.biomeTag.SPARSE=Редкий
+cropsnh_tooltip.biomeTag.DENSE=Густой
+cropsnh_tooltip.biomeTag.WET=Влажный
+cropsnh_tooltip.biomeTag.DRY=Сухой
+cropsnh_tooltip.biomeTag.SAVANNA=Саванна
+cropsnh_tooltip.biomeTag.CONIFEROUS=Хвойный
+cropsnh_tooltip.biomeTag.JUNGLE=Тропический
+cropsnh_tooltip.biomeTag.SPOOKY=Жуткий
+cropsnh_tooltip.biomeTag.DEAD=Мёртвый
+cropsnh_tooltip.biomeTag.LUSH=Пышный
+cropsnh_tooltip.biomeTag.NETHER=Ад
+cropsnh_tooltip.biomeTag.END=Край
+cropsnh_tooltip.biomeTag.MUSHROOM=Грибной
+cropsnh_tooltip.biomeTag.MAGICAL=Магический
+cropsnh_tooltip.biomeTag.OCEAN=Океан
+cropsnh_tooltip.biomeTag.RIVER=Речной
+cropsnh_tooltip.biomeTag.MESA=Плоскогорье
+cropsnh_tooltip.biomeTag.FOREST=Лесной
+cropsnh_tooltip.biomeTag.PLAINS=Равнины
+cropsnh_tooltip.biomeTag.MOUNTAIN=Горы
+cropsnh_tooltip.biomeTag.HILLS=Холмы
+cropsnh_tooltip.biomeTag.SWAMP=Болото
+cropsnh_tooltip.biomeTag.SANDY=Песчаный
+cropsnh_tooltip.biomeTag.SNOWY=Снежный
+cropsnh_tooltip.biomeTag.WASTELAND=Пустоши
+cropsnh_tooltip.biomeTag.BEACH=Пляж
+
+
+
+# Crop Breeder
+cropsnh.recipes.cropBreeder=Селекционер культур
+cropsnh_tooltip.cropBreeder.0=Скрещивает культуры детерминированно
+cropsnh_tooltip.cropBreeder.1=Требует %1$s §aобогащённого удобрения§7 за каждый §cтир§7 создаваемого семени
+cropsnh_tooltip.cropBreeder.2=Требует %1$s §aобогащённого удобрения§7 за каждое §cочко характеристик§7 создаваемого семени
+cropsnh_tooltip.cropBreeder.3=Характеристики создаваемого семени будут средним значением родительских семян
+cropsnh_tooltip.cropBreeder.4=Шанс успеха: %1$s%%
+cropsnh_tooltip.cropBreeder.5=Хранит %1$s жидкости
+cropsnh_tooltip.cropBreeder.mv_warn=§cНевозможно вывести семена с высокими характеристиками§7
+cropsnh_nei.cropBreeder.tooltip.fluidCost=Затраты = Тир результата * %1$s + (рост + урожайность + устойчивость) * %2$s
+cropsnh_nei.cropBreeder.tooltip.outputStats=Полученные характеристики будут средним значением родительских семян
+cropsnh_nei.cropBreeder.tooltip.successChance=Шанс успеха зависит от тира механизма
+cropsnh_tooltip.cropBreeder.name.1=Базовый селекционер культур
+cropsnh_tooltip.cropBreeder.name.2=Продвинутый селекционер культур
+cropsnh_tooltip.cropBreeder.name.3=Продвинутый селекционер культур II
+cropsnh_tooltip.cropBreeder.name.4=Продвинутый селекционер культур III
+cropsnh_tooltip.cropBreeder.name.5=Продвинутый селекционер культур IV
+cropsnh_tooltip.cropBreeder.name.6=Элитный селекционер культур
+cropsnh_tooltip.cropBreeder.name.7=Элитный селекционер культур II
+cropsnh_tooltip.cropBreeder.name.8=Совершенный селекционер культур
+cropsnh_tooltip.cropBreeder.name.9=Эпический селекционер культур
+cropsnh_tooltip.cropBreeder.name.10=Эпический селекционер культур II
+cropsnh_tooltip.cropBreeder.name.11=Эпический селекционер культур III
+cropsnh_tooltip.cropBreeder.name.12=Эпический селекционер культур IV
+
+# Crop Gene Extractor
+cropsnh.recipes.cropGeneExtractor=Экстрактор генов культур
+cropsnh_tooltip.cropGeneExtractor.0=Позволяет извлекать гены культур
+cropsnh_tooltip.cropGeneExtractor.1=Используйте схему для определения генов, которые вы хотите извлечь:
+cropsnh_tooltip.cropGeneExtractor.2=1 - Образец, 2 - Рост, 3 - Урожайность, 4 - Устойчивость
+cropsnh_nei.cropGeneExtractor.tooltip.scanSpecimen=Данные сканирования образца
+cropsnh_nei.cropGeneExtractor.tooltip.scanGrowth=Данные сканирования роста
+cropsnh_nei.cropGeneExtractor.tooltip.scanGain=Данные сканирования урожайности
+cropsnh_nei.cropGeneExtractor.tooltip.scanResistance=Данные сканирования устойчивости
+cropsnh_tooltip.cropGeneExtractor.name.4=Экстрактор генов культур
+cropsnh_tooltip.cropGeneExtractor.name.5=Продвинутый экстрактор генов культур
+cropsnh_tooltip.cropGeneExtractor.name.6=Элитный экстрактор генов культур
+cropsnh_tooltip.cropGeneExtractor.name.7=Элитный экстрактор генов культур II
+cropsnh_tooltip.cropGeneExtractor.name.8=Совершенный экстрактор генов культур
+cropsnh_tooltip.cropGeneExtractor.name.9=Эпический экстрактор генов культур
+cropsnh_tooltip.cropGeneExtractor.name.10=Эпический экстрактор генов культур II
+cropsnh_tooltip.cropGeneExtractor.name.11=Эпический экстрактор генов культур III
+cropsnh_tooltip.cropGeneExtractor.name.12=Эпический экстрактор генов культур IV
+
+# Crop Synthesizer
+cropsnh.recipes.cropSynthesizer=Репликатор семян
+cropsnh_tooltip.cropSynthesizer.0=Позволяет создавать культуры из сфер данных
+cropsnh_tooltip.cropSynthesizer.1=Требует %1$s §dматерии§7 на §cтир§7 создаваемого семени
+cropsnh_tooltip.cropSynthesizer.2=Требует %1$s §dматерии§7 за каждое §cочко характеристик§7 создаваемого семени
+cropsnh_tooltip.cropSynthesizer.3=Потребляет %1$s ампера
+cropsnh_nei.cropSynthesizer.tooltip.fluidCost=Затраты = Тир результата * %1$s + (рост + урожайность + устойчивость) * %2$s
+cropsnh_nei.cropSynthesizer.tooltip.output=Характеристики зависят от данных на сферах данных
+cropsnh_tooltip.cropSynthesizer.name.4=Репликатор семян
+cropsnh_tooltip.cropSynthesizer.name.5=Продвинутый репликатор семян
+cropsnh_tooltip.cropSynthesizer.name.6=Элитный репликатор семян
+cropsnh_tooltip.cropSynthesizer.name.7=Элитный репликатор семян II
+cropsnh_tooltip.cropSynthesizer.name.8=Совершенный репликатор семян
+cropsnh_tooltip.cropSynthesizer.name.9=Эпический репликатор семян
+cropsnh_tooltip.cropSynthesizer.name.10=Эпический репликатор семян II
+cropsnh_tooltip.cropSynthesizer.name.11=Эпический репликатор семян III
+cropsnh_tooltip.cropSynthesizer.name.12=Эпический репликатор семян IV
+
+# Seed Generator
+cropsnh.recipes.seedGenerator=Генератор семян
+cropsnh_tooltip.seedGenerator.0=Создаёт больше семян из уже имеющегося семени
+cropsnh_tooltip.seedGenerator.1=Требует %1$s §aобогащённого удобрения§7 за каждое §cочко характеристик§7 семени
+cropsnh_tooltip.seedGenerator.2=Не все семена можно клонировать в этом механизме
+cropsnh_tooltip.seedGenerator.3=Хранит %1$s жидкости
+cropsnh_tooltip.seedGenerator.mv_warn=§cНевозможно клонировать семена с высокими характеристиками§7
+cropsnh_nei.seedGenerator.tooltip.fluidCost=Затраты = %1$s * (рост + урожайность + устойчивость)
+cropsnh_tooltip.seedGenerator.name.1=Базовый генератор семян
+cropsnh_tooltip.seedGenerator.name.2=Продвинутый генератор семян
+cropsnh_tooltip.seedGenerator.name.3=Продвинутый генератор семян II
+cropsnh_tooltip.seedGenerator.name.4=Продвинутый генератор семян III
+cropsnh_tooltip.seedGenerator.name.5=Продвинутый генератор семян IV
+cropsnh_tooltip.seedGenerator.name.6=Элитный генератор семян
+cropsnh_tooltip.seedGenerator.name.7=Элитный генератор семян II
+cropsnh_tooltip.seedGenerator.name.8=Совершенный репликатор культур
+cropsnh_tooltip.seedGenerator.name.9=Эпический репликатор культур
+cropsnh_tooltip.seedGenerator.name.10=Эпический репликатор культур II
+cropsnh_tooltip.seedGenerator.name.11=Эпический репликатор культур III
+cropsnh_tooltip.seedGenerator.name.12=Эпический репликатор культур IV
+
+# Crop Manager
+cropsnh.recipes.cropManager=Автосадовник
+cropsnh_tooltip.cropManager.description=Автоматически собирает урожай и ухаживает за посевами на большой площади
+cropsnh_tooltip.cropManager.tooltip.0=Полив, удобрение и удаление сорняков можно включать/выключать независимо друг от друга
+cropsnh_tooltip.cropManager.tooltip.1=Потребляет %1$s EU за сбор урожая
+cropsnh_tooltip.cropManager.tooltip.2=Потребляет %1$s EU за вторичную операцию
+cropsnh_tooltip.cropManager.tooltip.3=Может собирать урожай на %s уровня блоков выше и ниже себя
+cropsnh_tooltip.cropManager.tooltip.4=Радиус: %1$sx%2$sx%1$s блоков
+cropsnh_tooltip.cropManager.tooltip.5=Имеет %1$s шанс на дополнительный дроп
+cropsnh_tooltip.cropManager.tooltip.6=Вмещает %1$s воды
+cropsnh_tooltip.cropManager.tooltip.7=Вмещает %1$s удобрения
+cropsnh_tooltip.cropManager.tooltip.8=Вмещает %1$s гербицида
+cropsnh_tooltip.cropManager.toggle.water=Полив
+cropsnh_tooltip.cropManager.toggle.weedEX=Применять гербицид
+cropsnh_tooltip.cropManager.toggle.fertilizer=Удобрять
+cropsnh_tooltip.cropManager.toggle.harvest=Собирать
+cropsnh_tooltip.cropManager.toggle.enabled=§7Включено§r
+cropsnh_tooltip.cropManager.toggle.disabled=§7Отключено§r
+cropsnh_tooltip.cropManager.waterStorage=Вода: %1$s%3$s / %2$s%3$s
+cropsnh_tooltip.cropManager.weedEXStorage=Гербицид: %1$s%3$s / %2$s%3$s
+cropsnh_tooltip.cropManager.liquidFertilizerStorage=Жидкое удобрение: %1$s%3$s / %2$s%3$s
+cropsnh_tooltip.cropManager.name.1=Базовый автосадовник
+cropsnh_tooltip.cropManager.name.2=Продвинутый автосадовник
+cropsnh_tooltip.cropManager.name.3=Продвинутый автосадовник II
+cropsnh_tooltip.cropManager.name.4=Продвинутый автосадовник III
+cropsnh_tooltip.cropManager.name.5=Продвинутый автосадовник IV
+cropsnh_tooltip.cropManager.name.6=Элитный автосадовник
+cropsnh_tooltip.cropManager.name.7=Элитный автосадовник II
+cropsnh_tooltip.cropManager.name.8=Совершенный автосадовник
+cropsnh_tooltip.cropManager.name.9=Эпический автосадовник
+cropsnh_tooltip.cropManager.name.10=Эпический автосадовник II
+cropsnh_tooltip.cropManager.name.11=Эпический автосадовник III
+cropsnh_tooltip.cropManager.name.12=Эпический автосадовник IV
+
+# Industrial Farm Controller
+cropsnh_tooltip.industrialFarm.name=Промышленная ферма
+cropsnh_tooltip.industrialFarm.machineType=Промышленный культиватор семян, IF
+cropsnh_tooltip.industrialFarm.0=Выращивает культуры в промышленных масштабах
+# separator
+cropsnh_tooltip.industrialFarm.1=§bДлина§7 и §bБазовое энергопотребление§7 механизма зависит от §cтира§7 §fгрядок§7
+cropsnh_tooltip.industrialFarm.2=§cТир§7 §fулучшений§7 должен соответствовать §cтиру§7 §fгрядок§7
+cropsnh_tooltip.industrialFarm.structure.controller=Спереди в центре, 2-й слой
+cropsnh_tooltip.industrialFarm.structure.endCasing=Любой корпус в центре торца
+cropsnh_tooltip.industrialFarm.structure.glass=Стекло любого тира
+cropsnh_tooltip.industrialFarm.structure.seedBed=Грядка
+cropsnh_tooltip.industrialFarm.structure.upgrades.name=Модуль апгрейда IF
+cropsnh_tooltip.industrialFarm.structure.upgrades.info=Любой деревянный каркас
+cropsnh_tooltip.industrialFarm.structure.error.ComponentTierTooLow=Слишком низкий тир компонента (мин. %s)
+cropsnh_tooltip.industrialFarm.structure.error.GlassTierTooLow=Слишком низкий тир стекла (мин. %s)
+cropsnh_tooltip.industrialFarm.structure.error.EEUCount=Слишком много модулей улучшения климата (макс. %s)
+cropsnh_tooltip.industrialFarm.structure.error.FUCount=Слишком много модулей удобрения
+cropsnh_tooltip.industrialFarm.structure.error.AHUCount=Слишком много продвинутых модулей сбора урожая (макс. %s)
+cropsnh_tooltip.industrialFarm.structure.error.OCGAUCount=Слишком много разогнанных модулей ускорения роста
+cropsnh_tooltip.industrialFarm.structure.error.OCGAUExclusivity=Невозможно использовать обычный модуль роста, если установлен разогнанный модуль
+cropsnh_tooltip.industrialFarm.structure.error.MultiAmpEHatchCount=Слишком много мультиамперных энеговводов
+cropsnh_tooltip.industrialFarm.structure.error.EHatchTypeNoMix=Нельзя совмещать обычные и мультиамперные энерговводы
+cropsnh_tooltip.industrialFarm.structure.error.LaserNotAllowed=Лазерные энерговводы не поддерживаются
+cropsnh_tooltip.industrialFarm.structure.error.MultiAmpNotAllowed=Мультиамперные энерговводы не поддерживаются без разогнанного модуля 
+
+# Industrial Farm block tooltips
+cropsnh_tooltip.upgradeTierMustMatchSeedBed=§cТир§7 этого улучшения должен соответствовать тиру §fгрядки§7
+cropsnh_tooltip.upgradeCountLimited=Вы можете использовать максимум §6%1$s§7 таких улучшений
+
+# Industrial Farm UI
+cropsnh_tooltip.industrialFarm.capacity=Макс. ёмкость: %1$d
+cropsnh_tooltip.industrialFarm.seedSlot=Слот семян
+cropsnh_tooltip.industrialFarm.seedWithBlockExtractionWarning=Семена можно извлечь только в режиме вывода, если внутри есть блоки
+cropsnh_tooltip.industrialFarm.blockInsertion=Блоки можно загрузить только в режиме ввода
+cropsnh_tooltip.industrialFarm.blockExtraction=Блоки можно извлечь только в режиме вывода
+cropsnh_tooltip.industrialFarm.subSoilSlot=Слот для блоков под почвой
+cropsnh_tooltip.industrialFarm.environmentalModule=Слот экологического модуля
+cropsnh_tooltip.industrialFarm.environmentalModule.enabled=Включён
+cropsnh_tooltip.industrialFarm.environmentalModule.disabled=Отключён
+cropsnh_tooltip.industrialFarm.mode.input=Вход
+cropsnh_tooltip.industrialFarm.mode.farm=Ферма
+cropsnh_tooltip.industrialFarm.mode.output=Выход
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.subSoilNotFound=Не найдены блоки подпочвы для загруженного семени
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.subSoilMismatch.input=Загруженные блоки подпочвы не подходят для загруженного семени
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.subSoilMismatch.farm=Текущие блоки подпочвы не подходят для загруженного семени
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.seedBedTierTooLow=Текущий тир грядки слишком низкий для этой культуры
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.seedsFull=Достигнут лимит вместимости семян
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.seedOverflow=Количество семян превышает текущую вместимость хранилища
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.cannotGrow=Это семя не может расти в текущих условиях
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.notEnoughWater=Недостаточно воды
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.notEnoughEnrichedFertilizer=Недостаточно обогащённого удобрения
+
+# Industrial Farm Chat messages
+cropsnh_chat.industrialFarm.mode.set=Режим изменён на %1$s
+
+# Industrial Farm Scanner Tooltips
+cropsnh_tooltip.industrialFarm.scanner.0=Тир: §e%1$s§r
+cropsnh_tooltip.industrialFarm.scanner.1=Ёмкость: §e%1$s§r
+cropsnh_tooltip.industrialFarm.scanner.2=Бонус к сбору урожая: §e%1$s§r%%
+cropsnh_tooltip.industrialFarm.scanner.3=Бонус к скорости роста: §e%1$s§r%%
+cropsnh_tooltip.industrialFarm.scanner.4=Потребление воды: §e%1$s§r/§e%2$s§rt
+cropsnh_tooltip.industrialFarm.scanner.5=Потребление удобрения: §e%1$s§r/§e%2$s§rt
+cropsnh_tooltip.industrialFarm.scanner.5.enriched=Потребление обогащённого удобрения: §e%1$s§r/§e%2$s§rt
+cropsnh_tooltip.industrialFarm.scanner.6=Питательность почвы: §e%1$s§r out of §e%2$s§r
+
+# Seed Bed
+cropsnh_tooltip.seedBed.name=Грядка (%1$s)
+cropsnh_tooltip.seedBed.0=Определяет §cтир§7 и §cбазовую стоимость энергии§7 Промышленной фермы
+cropsnh_tooltip.seedBed.1=Базовые затраты энергии: %1$s (%2$s)
+cropsnh_tooltip.seedBed.2=Вместимость семян: %1$s
+cropsnh_tooltip.seedBed.3=Требует %1$s воды за цикл
+cropsnh_tooltip.seedBed.4=Опционально использует %1$s удобрения за цикл
+cropsnh_tooltip.seedBed.5=Увеличивает количество дропа на %1$s
+cropsnh_tooltip.seedBed.5.adv=Увеличивает количество дропа на %1$s (аддитивно)
+cropsnh_tooltip.seedBed.6.single=Ферма должна иметь %1$s среднюю секцию
+cropsnh_tooltip.seedBed.6.plural=Ферма должна иметь %1$s средние(их) секции(ий)
+cropsnh.seedBed.2.name=Грядка (MV)
+cropsnh.seedBed.3.name=Грядка (HV)
+cropsnh.seedBed.4.name=Грядка (EV)
+cropsnh.seedBed.5.name=Грядка (IV)
+cropsnh.seedBed.6.name=Грядка (LuV)
+cropsnh.seedBed.7.name=Грядка (ZPM)
+cropsnh.seedBed.8.name=Грядка (UV)
+cropsnh.seedBed.9.name=Грядка (UHV)
+cropsnh.seedBed.10.name=Грядка (UEV)
+cropsnh.seedBed.11.name=Грядка (UIV)
+cropsnh.seedBed.12.name=Грядка (UMV)
+cropsnh.seedBed.13.name=Грядка (UXV)
+
+# OC Growth Accel Unit
+cropsnh_tooltip.overclockedGrowthAccelerationUnit.0=Позволяет §fразгонять§7 Промышленную ферму
+cropsnh_tooltip.overclockedGrowthAccelerationUnit.1=Каждый разгон §bудваивает§7 производство и входящее потребление ресурсов без изменения времени рецепта
+cropsnh_tooltip.overclockedGrowthAccelerationUnit.2=Не будет работать, если также установлен §fМодуль ускорения роста§7
+cropsnh_tooltip.overclockedGrowthAccelerationUnit.3=Позволяет использовать один мультиамперный энерговвод вместо нескольких обычных энерговводов
+cropsnh.overclockedGrowthAccelerationUnit.7.name=Разогнанный модуль ускорения роста (ZPM)
+cropsnh.overclockedGrowthAccelerationUnit.8.name=Разогнанный модуль ускорения роста (UV)
+cropsnh.overclockedGrowthAccelerationUnit.9.name=Разогнанный модуль ускорения роста (UHV)
+cropsnh.overclockedGrowthAccelerationUnit.10.name=Разогнанный модуль ускорения роста (UEV)
+cropsnh.overclockedGrowthAccelerationUnit.11.name=Разогнанный модуль ускорения роста (UIV)
+cropsnh.overclockedGrowthAccelerationUnit.12.name=Разогнанный модуль ускорения роста (UMV)
+cropsnh.overclockedGrowthAccelerationUnit.13.name=Разогнанный модуль ускорения роста (UXV)
+
+# Growth Accel Unit
+cropsnh_tooltip.growthAccelerationUnit.0=Увеличивает скорость созревания культур внутри Промышленной фермы
+cropsnh_tooltip.growthAccelerationUnit.1=Увеличивает скорость роста на %1$s
+cropsnh_tooltip.growthAccelerationUnit.1.adv=Увеличивает скорость роста на %1$s за каждое улучшение (аддитивный)
+cropsnh_tooltip.growthAccelerationUnit.2=Увеличивает энергопотребление на %1$s
+cropsnh_tooltip.growthAccelerationUnit.2.adv=Увеличивает энергопотребление на %1$s за каждое улучшение (аддитивно)
+cropsnh_tooltip.growthAccelerationUnit.3=Не будет работать, если также установлен §fРазогнанный модуль ускорения роста§7
+cropsnh.growthAccelerationUnit.2.name=Модуль ускорения роста (MV)
+cropsnh.growthAccelerationUnit.3.name=Модуль ускорения роста (HV)
+cropsnh.growthAccelerationUnit.4.name=Модуль ускорения роста (EV)
+cropsnh.growthAccelerationUnit.5.name=Модуль ускорения роста (IV)
+cropsnh.growthAccelerationUnit.6.name=Модуль ускорения роста (LuV)
+cropsnh.growthAccelerationUnit.7.name=Модуль ускорения роста (ZPM)
+cropsnh.growthAccelerationUnit.8.name=Модуль ускорения роста (UV)
+cropsnh.growthAccelerationUnit.9.name=Модуль ускорения роста (UHV)
+cropsnh.growthAccelerationUnit.10.name=Модуль ускорения роста (UEV)
+cropsnh.growthAccelerationUnit.11.name=Модуль ускорения роста (UIV)
+cropsnh.growthAccelerationUnit.12.name=Модуль ускорения роста (UMV)
+cropsnh.growthAccelerationUnit.13.name=Модуль ускорения роста (UXV)
+
+# Fertilizer Unit
+cropsnh_tooltip.fertilizerUnit.0=Позволяет Промышленной ферме потреблять §fобогащённое удобрение§7 для увеличения производства
+cropsnh_tooltip.fertilizerUnit.1=Требует %1$s §fобогащённого удобрения§7 за цикл
+cropsnh_tooltip.fertilizerUnit.2=§cВы не можете использовать обычное удобрение, если установлен этот модуль§7
+cropsnh_tooltip.fertilizerUnit.3=§cИгнорирует бонус к эффективности от обогащённого удобрения§7
+cropsnh_tooltip.fertilizerUnit.4=Увеличивает скорость роста на %1$s
+cropsnh_tooltip.fertilizerUnit.4.adv=Увеличивает скорость роста на %1$s (мультипликативно)
+cropsnh_tooltip.fertilizerUnit.5=Увеличивает количество дропа на %1$s
+cropsnh_tooltip.fertilizerUnit.5.adv=Увеличивает количество дропа на %1$s (аддитивно)
+cropsnh_tooltip.fertilizerUnit.6=Увеличивает энергопотребление на %1$s
+cropsnh_tooltip.fertilizerUnit.6.adv=Увеличивает энергопотребление на %1$s (аддитивно)
+cropsnh.fertilizerUnit.2.name=Модуль удобрения (MV)
+cropsnh.fertilizerUnit.3.name=Модуль удобрения (HV)
+cropsnh.fertilizerUnit.4.name=Модуль удобрения (EV)
+cropsnh.fertilizerUnit.5.name=Модуль удобрения (IV)
+cropsnh.fertilizerUnit.6.name=Модуль удобрения (LuV)
+cropsnh.fertilizerUnit.7.name=Модуль удобрения (ZPM)
+cropsnh.fertilizerUnit.8.name=Модуль удобрения (UV)
+cropsnh.fertilizerUnit.9.name=Модуль удобрения (UHV)
+cropsnh.fertilizerUnit.10.name=Модуль удобрения (UEV)
+cropsnh.fertilizerUnit.11.name=Модуль удобрения (UIV)
+cropsnh.fertilizerUnit.12.name=Модуль удобрения (UMV)
+cropsnh.fertilizerUnit.13.name=Модуль удобрения (UXV)
+
+# Environmental Unit
+cropsnh_tooltip.environmentalEnhancementUnit.0=Позволяет использовать §fмодули улучшения климата§7 в Промышленной ферме
+cropsnh_tooltip.environmentalEnhancementUnit.1=Модули вставляются в §fконтроллер§7 фермы
+cropsnh_tooltip.environmentalEnhancementUnit.2=Увеличивает энергопотребление на %1$s
+cropsnh_tooltip.environmentalEnhancementUnit.2.adv=Увеличивает энергопотребление на %1$s (аддитивно)
+cropsnh.environmentalEnhancementUnit.2.name=Модуль улучшения климата (MV)
+cropsnh.environmentalEnhancementUnit.3.name=Модуль улучшения климата (HV)
+cropsnh.environmentalEnhancementUnit.4.name=Модуль улучшения климата (EV)
+cropsnh.environmentalEnhancementUnit.5.name=Модуль улучшения климата (IV)
+cropsnh.environmentalEnhancementUnit.6.name=Модуль улучшения климата (LuV)
+cropsnh.environmentalEnhancementUnit.7.name=Модуль улучшения климата (ZPM)
+cropsnh.environmentalEnhancementUnit.8.name=Модуль улучшения климата (UV)
+cropsnh.environmentalEnhancementUnit.9.name=Модуль улучшения климата (UHV)
+cropsnh.environmentalEnhancementUnit.10.name=Модуль улучшения климата (UEV)
+cropsnh.environmentalEnhancementUnit.11.name=Модуль улучшения климата (UIV)
+cropsnh.environmentalEnhancementUnit.12.name=Модуль улучшения климата (UMV)
+cropsnh.environmentalEnhancementUnit.13.name=Модуль улучшения климата (UXV)
+
+# Advanced Harvesting Unit
+cropsnh_tooltip.advancedHarvestingUnit.0=Увеличивает объем продукции Промышленной фермы
+cropsnh_tooltip.advancedHarvestingUnit.1=Увеличивает количество урожая на %1$s за каждое улучшение
+cropsnh_tooltip.advancedHarvestingUnit.1.adv=Увеличивает количество урожая на %1$s за каждое улучшение (мультипликативно)
+cropsnh_tooltip.advancedHarvestingUnit.2=Увеличивает энергопотребление на %1$s за каждое улучшение
+cropsnh_tooltip.advancedHarvestingUnit.2.adv=Увеличивает энергопотребление на %1$s за каждое улучшение (аддитивно)
+cropsnh.advancedHarvestingUnit.2.name=Продвинутый модуль сбора урожая (MV)
+cropsnh.advancedHarvestingUnit.3.name=Продвинутый модуль сбора урожая (HV)
+cropsnh.advancedHarvestingUnit.4.name=Продвинутый модуль сбора урожая (EV)
+cropsnh.advancedHarvestingUnit.5.name=Продвинутый модуль сбора урожая (IV)
+cropsnh.advancedHarvestingUnit.6.name=Продвинутый модуль сбора урожая (LuV)
+cropsnh.advancedHarvestingUnit.7.name=Продвинутый модуль сбора урожая (ZPM)
+cropsnh.advancedHarvestingUnit.8.name=Продвинутый модуль сбора урожая (UV)
+cropsnh.advancedHarvestingUnit.9.name=Продвинутый модуль сбора урожая (UHV)
+cropsnh.advancedHarvestingUnit.10.name=Продвинутый модуль сбора урожая (UEV)
+cropsnh.advancedHarvestingUnit.11.name=Продвинутый модуль сбора урожая (UIV)
+cropsnh.advancedHarvestingUnit.12.name=Продвинутый модуль сбора урожая (UMV)
+cropsnh.advancedHarvestingUnit.13.name=Продвинутый модуль сбора урожая (UXV)
+
+# MTE tooltips
+
+# MTE Machine Type Flavour Text
+# multi tooltips
+cropsnh_tooltip.MBTT.multiAmpsWithUpgrade.0=§aПоддерживает один мультиамперный энерговвод при использовании разогнанного модуля ускорения роста!
+cropsnh_tooltip.MBTT.multiAmpsWithUpgrade.1=§aВы не можете использовать обычные энерговводы при использовании мультиамперного энерговвода
+# Crop Produce Flavour Text
+cropsnh_tooltip.berry.huckle.1=Хакл-да-Дакл-да-Ду
+cropsnh_tooltip.berry.huckle.2=Сладкое лакомство!
+cropsnh_tooltip.berry.sugarbeet.1=Сладкая свёкла, распространённая во Франции, Германии, России и Китае.
+cropsnh_tooltip.berry.sugarbeet.2=Промышленный сахар!
+cropsnh_tooltip.berry.maxTomato=Полное здоровье в одном томате
+cropsnh_tooltip.material_leaf_error=Если ты это видишь, пожалуйста сделай скриншот этой подсказки и создай баг-репорт
+cropsnh_tooltip.goldfish=Хозуки но Рейтэцу! Поистине адское растение-животное?!
+cropsnh_tooltip.pyrolusiumLeaf.normal=Может быть, однажды у них всё получится.
+cropsnh_tooltip.pyrolusiumLeaf.banana=Как это произошло?
+cropsnh_tooltip.pyrolusiumLeaf.canada=Вау, они сделали это!
+cropsnh_tooltip.copponFiber=ОРАНЖЕВАЯ ШЕЕЕЕЕЕЕРСТЬ!!!
+cropsnh_tooltip.stargatiumLeaf=На самом деле сделано не из звёздных врат.
+
+# Alcohol Tooltips
+cropsnh_tooltip.alcohol.0=Воняет.
+cropsnh_tooltip.alcohol.1=Корн? Фу, у тебя будет болеть голова!
+cropsnh_tooltip.alcohol.2=Доппелькорн? Немецкая водка!
+cropsnh_tooltip.alcohol.3=Слишком сильный.
+cropsnh_tooltip.alcohol.4=Очень сладкий
+cropsnh_tooltip.alcohol.5=Это почетный знак охотника,\nчто он защищает и бережет свою дичь,\nохотится как егерь, как и должно быть,\nпочитает Творца в творении.
+cropsnh_tooltip.alcohol.6=Это даст эффектов зелья на 1ч!
+cropsnh_tooltip.alcohol.7=Пахнет как поддельный Егермейстер...
+
+# Material Leaf Tooltips
+cropsnh_tooltip.leaf.aluminium=Источник алюминия.
+cropsnh_tooltip.leaf.blueDye=Источник синего красителя
+cropsnh_tooltip.leaf.copper=Источник меди
+cropsnh_tooltip.leaf.emerald=Источник изумруда
+cropsnh_tooltip.leaf.gold=Источник золота
+cropsnh_tooltip.leaf.iridium=Источник иридия
+cropsnh_tooltip.leaf.iron=Источник железа.
+cropsnh_tooltip.leaf.lead=Источник свинца.
+cropsnh_tooltip.leaf.magic=Чистая магия!
+cropsnh_tooltip.leaf.manganese=Источник марганца
+cropsnh_tooltip.leaf.mica=Источник слюды
+cropsnh_tooltip.leaf.milk=Источник молока
+cropsnh_tooltip.leaf.naquadah=Источник наквадаха
+cropsnh_tooltip.leaf.netherstar=Источник адских звёзд
+cropsnh_tooltip.leaf.nickel=Источник никеля.
+cropsnh_tooltip.leaf.osmium=Источник осмия.
+cropsnh_tooltip.leaf.platinum=Источник платины.
+cropsnh_tooltip.leaf.salt=Источник соли
+cropsnh_tooltip.leaf.seedOil=Источник растительного масла.
+cropsnh_tooltip.leaf.silver=Источник серебра.
+cropsnh_tooltip.leaf.space=Космическая радиация, заключённая в цветке!
+cropsnh_tooltip.leaf.string=Источник ниток
+cropsnh_tooltip.leaf.sugar=Источник сахара.
+cropsnh_tooltip.leaf.thorium=Источник тория.
+cropsnh_tooltip.leaf.tin=Источник олова.
+cropsnh_tooltip.leaf.titanium=Источник титана.
+cropsnh_tooltip.leaf.tungsten=Источник вольфрама.
+cropsnh_tooltip.leaf.uranium=Источник урана.
+cropsnh_tooltip.leaf.zinc=Источник цинка.
+cropsnh_tooltip.leaf.beer=Источник пива
+cropsnh_tooltip.leaf.sulfur=Источник серы.
+# Merial Leaf Berries
+cropsnh_tooltip.leaf.oil=Нефть в форме ягоды.
+cropsnh_tooltip.leaf.uua=UUA в форме ягоды.
+cropsnh_tooltip.leaf.uum=UUM в форме ягоды.
+
+
+# NEI Compat
+cropsnh_nei.any_seed=Любые семена
+cropsnh_nei.scanned_seed=Отсканированное семя
+cropsnh_nei.deterministicBreeding.title=Селекция культур
+cropsnh_nei.cropGroups.title=Группы культур
+cropsnh_nei.crops.title=Культуры
+cropsnh_nei.crops.tier=Тир: %d
+cropsnh_nei.crops.growthDuration=Очки роста: %1$s
+cropsnh_nei.crops.dropMult=Множитель дропа: %1$0.2f
+cropsnh_nei.crops.likes=Предпочитает: %1$s
+cropsnh_nei.breeding.title=Селекция растений
+cropsnh_nei.breeding.tooManyParents=Обнаружено более %s родителей, такого быть не должно!
+cropsnh_nei.mutationPool.title=Пулы мутаций культур
+cropsnh_nei.mutationPool.poolName=Пул: %1$s
+cropsnh_nei.altSeeds.title=Альтернативные семена
+nei.options.tools.dump.cropsnh=Crops NH
+nei.options.tools.dump.cropsnh.alternateSeed=Альтернативные семена
+nei.options.tools.dump.cropsnh.cropRegistry=Растения
+nei.options.tools.dump.cropsnh.deterministicMutations=Детерминированные мутации
+nei.options.tools.dump.cropsnh.fertilizerFluids=Удобрения в виде жидкости
+nei.options.tools.dump.cropsnh.fertilizerItems=Удобрения в виде предмета
+nei.options.tools.dump.cropsnh.hydrationFluids=Увлажнение
+nei.options.tools.dump.cropsnh.mutationPools=Пулы мутаций
+nei.options.tools.dump.cropsnh.soilRegistry=Почвы
+nei.options.tools.dump.cropsnh.weedEXFluids=Гербицид
+nei.options.tools.dump.cropsnh.bootProtection=Защита от вытаптывания
+
+
+# Forestry compat
+cropsnh_forestry.farmLogic.name=Crops NH
+
+# Generic Seeds
+cropsnh_genericSeeds.unknown=Неизвестный
+cropsnh_genericSeeds.invalid=Недействительно
+cropsnh_genericSeeds.any=Любые культуры Crops NH
+cropsnh_genericSeeds.format=Семена: %1$s
+
+# Crop Names
+cropsnh_crops.weed=Сорняк
+cropsnh_crops.migrator=Migrator Crop
+# BoP Crop Names
+cropsnh_crops.bamboo=Бамбуковый побег
+cropsnh_crops.eyebulb=Глазное яблоко
+cropsnh_crops.floweringVine=Цветущая лиана
+cropsnh_crops.glowflower=Светоцвет
+cropsnh_crops.glowingCoral=Светящийся коралл
+cropsnh_crops.glowshroom=Светогриб
+cropsnh_crops.ivy=Плющ
+# Bonsais Crop Names
+cropsnh_crops.bonsaiOak=Дубовый бонсай
+cropsnh_crops.bonsaiSpruce=Еловый бонсай
+cropsnh_crops.bonsaiBirch=Берёзовый бонсай
+cropsnh_crops.bonsaiJungle=Тропический бонсай
+cropsnh_crops.bonsaiAcacia=Акациевый бонсай
+cropsnh_crops.bonsaiDarkOak=Бонсай тёмного дуба
+cropsnh_crops.bonsaiRubber=Резиновый бонсай
+cropsnh_crops.bonsaiSlimy=Слизневый бонсай
+# food crops names (BoP)
+cropsnh_crops.bopBerry=Ягода
+cropsnh_crops.turnip=Репа
+cropsnh_crops.wildCarrot=Дикая морковь
+# food crops names (Natura)
+cropsnh_crops.barley=Ячмень
+cropsnh_crops.blackberry=Ежевика
+cropsnh_crops.blueberry=Черника
+cropsnh_crops.maloberry=Смородина
+cropsnh_crops.raspberry=Малина
+cropsnh_crops.saguaroCactus=Кактус сагуаро
+# Food Crops Names
+cropsnh_crops.chilly=Чили
+cropsnh_crops.coffee=Кофе
+cropsnh_crops.cucumber=Огурец
+cropsnh_crops.grape=Виноград
+cropsnh_crops.hops=Хмель
+cropsnh_crops.huckleberry=Гекльберри
+cropsnh_crops.meatrose=Мясороза
+cropsnh_crops.lemon=Лимон
+cropsnh_crops.onion=Лук
+cropsnh_crops.strawberry=Клубника
+cropsnh_crops.sugarBeet=Сахарная свёкла
+cropsnh_crops.tomato=Помидор
+cropsnh_crops.tea=Чай
+# Material Crop Names
+cropsnh_crops.argentia=Аргентия
+cropsnh_crops.auronia=Аурония
+cropsnh_crops.bauxia=Бауксия
+cropsnh_crops.bobsYerUncleRanks=Бобы дядюшки Боба
+cropsnh_crops.canola=Рапс
+cropsnh_crops.cassitine=Касситин
+cropsnh_crops.coppon=Медный хлопок
+cropsnh_crops.cotton=Хлопок
+cropsnh_crops.dayflower=Коммелина
+cropsnh_crops.diareed=Алмазный тростник
+cropsnh_crops.evilOre=Адская руда
+cropsnh_crops.ferrofern=Ферроферния
+cropsnh_crops.fertilia=Фертилия
+cropsnh_crops.flax=Лён
+cropsnh_crops.galvania=Гальвания
+cropsnh_crops.garnydinia=Гарнидиния
+cropsnh_crops.glowheat=Светящаяся пшеница
+cropsnh_crops.godOfThunder=Бог грома
+cropsnh_crops.hemp=Конопля
+cropsnh_crops.indigo=Индиго
+cropsnh_crops.iridine=Иридин
+cropsnh_crops.lazulia=Лазулия
+cropsnh_crops.liveroot=Живой корень
+cropsnh_crops.magicalNightshade=Магический паслён
+cropsnh_crops.malaxia=Малаксия
+cropsnh_crops.micadia=Микадия
+cropsnh_crops.milkWart=Молочный нарост
+cropsnh_crops.necrobloom=Мертвоцвет
+cropsnh_crops.nickelback=Пятицентовик
+cropsnh_crops.nickelback.flavour=Приятно гудит на ветру.
+cropsnh_crops.oilBerry=Нефтяная ягода
+cropsnh_crops.olivia=Оливия
+cropsnh_crops.osmianth=Осмиант
+cropsnh_crops.papyrus=Папирус
+cropsnh_crops.platina=Платиния
+cropsnh_crops.plumbilia=Плюмбилия
+cropsnh_crops.plumbshade=Свинцовый паслён
+cropsnh_crops.purpleTulip=Фиолетовый тюльпан
+cropsnh_crops.pyrolusium=Пиролизия
+cropsnh_crops.pyrolusium.flavour=Оно старается как может.
+cropsnh_crops.reactoria=Реактория
+cropsnh_crops.redstraw=Красная пшеница
+cropsnh_crops.rubyne=Рубин
+cropsnh_crops.saltyRoot=Солевой корень
+cropsnh_crops.saltyRoot.flavour=Не съедобно.
+cropsnh_crops.sapphirum=Сапфирум
+cropsnh_crops.scheelinium=Шилиний
+cropsnh_crops.silviscus=Серебрискус
+cropsnh_crops.spaceFlower=Космический цветок
+cropsnh_crops.stargatium=Старгейтий
+cropsnh_crops.starWart=Звездный нарост
+cropsnh_crops.steeleafranks=Сталелистник
+cropsnh_crops.stickyCane=Резиновый тростник
+cropsnh_crops.thiosulfine=Тиосульфин
+cropsnh_crops.tine=Олона
+cropsnh_crops.titania=Титания
+cropsnh_crops.titania.flavour=Королева культур.
+cropsnh_crops.transformium=Трансформий
+cropsnh_crops.trollplant=Тролльник
+cropsnh_crops.trollplant.flavour=Трололололо, ло-ло-ло, ло-ло-ло!
+cropsnh_crops.withereed=Угольный тростник
+# Mob Crop Names
+cropsnh_crops.blazereed=Огненный тростник
+cropsnh_crops.corium=Кориум
+cropsnh_crops.corpseplant=Трупный цветок
+cropsnh_crops.creeperweed=Сорняк крипера
+cropsnh_crops.eggPlant=Яичное растение
+cropsnh_crops.eggPlant.flavour=Не перепутай с баклажаном.
+cropsnh_crops.enderbloom=Цветок Края
+cropsnh_crops.goldfish=Золотая рыбка
+cropsnh_crops.goldfish.flavour=Орёт.
+cropsnh_crops.inkbloom=Чернильник
+cropsnh_crops.slimeplant=Слизневое растение
+cropsnh_crops.spidernip=Паучья мята
+cropsnh_crops.tearstalks=Cлезливые стебли
+cropsnh_crops.zomplant=Зомби цветок
+# Natura Nether Berry Crop Names
+cropsnh_crops.blightberry=Губительная ягода
+cropsnh_crops.duskberry=Сумеречная ягода
+cropsnh_crops.skyberry=Небесная ягода
+cropsnh_crops.stingberry=Ядовитая ягода
+# Natura Nether Glowshroom Names
+cropsnh_crops.blueGlowshroom=Синий светогриб
+cropsnh_crops.greenGlowshroom=Зелёный светогриб
+cropsnh_crops.purpleGlowshroom=Фиолетовый светогриб
+# Natura Nether Crop Names
+cropsnh_crops.thornvine=Терновник
+# Ore Berries
+cropsnh_crops.aluminiumOreBerry=Алюминиевая рудоягода
+cropsnh_crops.arditeOreBerry=Ардитовая рудоягода
+cropsnh_crops.cobaltOreBerry=Кобальтовая рудоягода
+cropsnh_crops.copperOreBerry=Медная рудоягода
+cropsnh_crops.essenceOreBerry=Ягода опыта
+cropsnh_crops.goldOreBerry=Золотая рудоягода
+cropsnh_crops.ironOreBerry=Железная рудоягода
+cropsnh_crops.knightmetalOreBerry=Рыцарская рудоягода
+cropsnh_crops.thauminiteOreBerry=Тауминитовая рудоягода
+cropsnh_crops.thaumiumOreBerry=Таумическая рудоягода
+cropsnh_crops.tinOreBerry=Оловянная рудоягода
+cropsnh_crops.voidOreBerry=Пустотные рудоягоды
+# Stone Lily Crop Names (Modern)
+cropsnh_crops.andesiteLily=Андезитовая лилия
+cropsnh_crops.dioriteLily=Диоритовая лилия
+cropsnh_crops.graniteLily=Гранитная лилия
+# Stone Lily Crop Names (Et Futurum Requiem)
+cropsnh_crops.deepslateLily=Лилия Глубинного сланца
+cropsnh_crops.tuffLily=Туфовая лилия
+# Stone Lily Crop Names
+cropsnh_crops.stoneLily=Каменная лилия
+cropsnh_crops.sandLily=Песочная лилия
+cropsnh_crops.clayLily=Глиняная лилия
+cropsnh_crops.endStoneLily=Эндерняковая лилия
+cropsnh_crops.netherStoneLily=Лилия Адского камня
+cropsnh_crops.soulSandLily=Лилия Песка душ
+cropsnh_crops.blackGraniteLily=Чёрногранитная лилия
+cropsnh_crops.redGraniteLily=Красногранитная лилия
+cropsnh_crops.basaltLily=Базальтовая лилия
+cropsnh_crops.marbleLily=Мраморная лилия
+# Thaumcraft Crops
+cropsnh_crops.primordialBerry=Первородная ягода
+cropsnh_crops.cinderpearl=Огненный жемчуг
+cropsnh_crops.shimmerleaf=Серебролист
+cropsnh_crops.manaBean=Магический боб
+# Twilight Forest Crops
+cropsnh_crops.torchberry=Факелонит
+# Vanilla Crops
+cropsnh_crops.sugarCane=Сахарный тростник
+cropsnh_crops.redMushroom=Мухомор
+cropsnh_crops.brownMushroom=Коричневый гриб
+cropsnh_crops.vine=Лиана
+cropsnh_crops.waterLily=Кувшинка
+
+# Lockout Breeding Requirements
+cropsnh_breedingReq.lockout.machineOnly=Требуется селекционер культур
+cropsnh_breedingReq.lockout.worldOnly=Необходимо использовать жёрдочки
+# Lockout Growth Requirements
+cropsnh_growthReq.lockout.machineOnly=Можно собирать урожай только в Промышленной ферме
+cropsnh_growthReq.lockout.machineOnly.nei=Сбор только в Пр. ферме
+cropsnh_growthReq.lockout.migrated=Неверная почва! Собери, чтобы вернуть семя!
+# Light Growth Requirements
+cropsnh_growthReq.minLight.format=Требуется уровень освещения %1$s или выше
+cropsnh_growthReq.minLight.format.nei=Требуется уровень освещения %1$s или выше
+cropsnh_growthReq.maxLight.format=Требуется уровень освещения %1$s или ниже
+cropsnh_growthReq.maxLight.format.nei=Требуется уровень освещения %1$s или ниже
+# Vanilla Stone Lily Growth Requirements
+cropsnh_growthReq.subSoil.stone=Требует блока камня под почвой для роста
+cropsnh_growthReq.subSoil.sand=Требует блок песка или песчаника под почвой для роста
+cropsnh_growthReq.subSoil.clay=Требует блок глины или обожжёной глины под почвой для роста
+cropsnh_growthReq.subSoil.soulSand=Требует блок песка душ под почвой для роста
+cropsnh_growthReq.subSoil.netherrack=Требует блок адского камня под почвой для роста
+cropsnh_growthReq.subSoil.endStone=Требует блок эндерняка под почвой для роста
+# GT Stone Lily Growth Requirements
+cropsnh_growthReq.subSoil.redGranite=Требует блок красного гранита под почвой для роста
+cropsnh_growthReq.subSoil.blackGranite=Требует блок черного гранита под почвой для роста
+cropsnh_growthReq.subSoil.marble=Требует блок мрамора под почвой для роста
+cropsnh_growthReq.subSoil.basalt=Требует блок базальта под почвой для роста
+# Et EtFuturum Stone Lily Requirements
+cropsnh_growthReq.subSoil.deepslate=Требует блок глубинного сланца под почвой для роста
+cropsnh_growthReq.subSoil.tuff=Требует блок туфа под почвой для роста
+# Modern Stone Lily Growth Requirements
+cropsnh_growthReq.subSoil.modernAndesite=Требует блок андезита под почвой для роста
+cropsnh_growthReq.subSoil.modernDiorite=Требует блок диорита под почвой для роста
+cropsnh_growthReq.subSoil.modernGranite=Требует блок гранита под почвой для роста
+# Vanilla Ore Growth Requirements
+cropsnh_growthReq.subSoil.coal=Требует блок угля под почвой для роста
+cropsnh_growthReq.subSoil.iron=Требует блок железа под почвой для роста
+cropsnh_growthReq.subSoil.gold=Требует блок золота под почвой для роста
+cropsnh_growthReq.subSoil.diamond=Требует блок алмаза под почвой для роста
+cropsnh_growthReq.subSoil.emerald=Требует блок изумруда под почвой для роста
+cropsnh_growthReq.subSoil.redstone=Требует блок красного камня под почвой для роста
+cropsnh_growthReq.subSoil.lapis=Требует лазуритовый блок под почвой для роста
+# Modded Ore Growth Requirements
+cropsnh_growthReq.subSoil.aluminium=Требует блок алюминия под почвой для роста
+cropsnh_growthReq.subSoil.aluminiumBauxite=Требует блок алюминия или боксита под почвой для роста
+cropsnh_growthReq.subSoil.copper=Требует блок меди под почвой для роста
+cropsnh_growthReq.subSoil.iridium=Требует блок иридия под почвой для роста
+cropsnh_growthReq.subSoil.lead=Требует блок свинца или галенита под почвой для роста
+cropsnh_growthReq.subSoil.magnesium=Требует блок магния под почвой для роста
+cropsnh_growthReq.subSoil.manganese=Требует блок марганца или пиролюзита под почвой для роста
+cropsnh_growthReq.subSoil.mica=Требует блок слюды или катушку из купроникеля под почвой для роста
+cropsnh_growthReq.subSoil.naquadah=Требует блок наквадаха под почвой для роста
+cropsnh_growthReq.subSoil.netherStar=Требует блок адских звёзд под почвой для роста
+cropsnh_growthReq.subSoil.nickel=Требует блок никеля под почвой для роста
+cropsnh_growthReq.subSoil.osmium=Требует блок осмия под почвой для роста
+cropsnh_growthReq.subSoil.platinum=Требует блок платины или шелдонита под почвой для роста
+cropsnh_growthReq.subSoil.silver=Требует блок серебра под почвой для роста
+cropsnh_growthReq.subSoil.sulfur=Требует блок серы или сфалерита под почвой для роста
+cropsnh_growthReq.subSoil.thorium=Требует блок тория или торианита под почвой для роста
+cropsnh_growthReq.subSoil.tin=Требует блок олова под почвой для роста
+cropsnh_growthReq.subSoil.titanium=Требует блок титана, ильменита или рутила под почвой для роста
+cropsnh_growthReq.subSoil.tungsten=Требует блок вольфрама, шеелита или вольфрамата под почвой для роста
+cropsnh_growthReq.subSoil.uranium=Требует блок урана, уранинита или настурана под почвой для роста
+cropsnh_growthReq.subSoil.zinc=Требует блок цинка или сфалерита под почвой для роста
+# Gem Ore Growth Requirement
+cropsnh_growthReq.subSoil.garnetGem=Требует блок красного или жёлтого граната под почвой для роста
+cropsnh_growthReq.subSoil.olivine=Требует блок оливина под почвой для роста
+cropsnh_growthReq.subSoil.sapphire=Требует блок сапфира под почвой для роста
+cropsnh_growthReq.subSoil.ruby=Требует блок рубина под почвой для роста
+# Non-GT Ore Growth Requirements
+cropsnh_growthReq.subSoil.knightmetal=Требует блок рыцарского металла под почвой для роста
+cropsnh_growthReq.subSoil.steeleaf=Требует блок сталелиста под почвой для роста
+cropsnh_growthReq.subSoil.cobalt=Требует блок кобальта под почвой для роста
+cropsnh_growthReq.subSoil.ardite=Требует блок ардита под почвой для роста
+# Magic Ore Growth Requirements
+cropsnh_growthReq.subSoil.void=Требует блок пустотного металла под почвой для роста
+cropsnh_growthReq.subSoil.thaumium=Требует блок таум-металла под почвой для роста
+cropsnh_growthReq.subSoil.thauminite=Требует блок тауминита под почвой для роста
+cropsnh_growthReq.subSoil.shadowmetal=Требует блок теневого металла под почвой для роста
+# Misc Block Growth Requirement
+cropsnh_growthReq.subSoil.skull=Требует череп под почвой для роста
+cropsnh_growthReq.subSoil.snow=Требует блок снега под почвой для роста
+cropsnh_growthReq.subSoil.glowstone=Требует блок светящегося камня под почвой для роста
+cropsnh_growthReq.subSoil.blaze=Требует блок стержней ифрита под почвой для роста
+cropsnh_growthReq.subSoil.quicksilver=Требует блок ртути под почвой для роста
+
+# Thaum Block Growth Requirement
+cropsnh_growthReq.subSoil.mixedCrystalCluster=Требует смешанный кристальный кластер под почвой для роста
+
+
+# Galacticraft Blocks Growth Requirements
+cropsnh_growthReq.subSoil.space=Требует космический грунт под почвой для роста
+
+# Mutation Pool Names
+cropsnh_mutationPool.addictive=Вызывающий зависимость
+cropsnh_mutationPool.alien=Инопланетный
+cropsnh_mutationPool.bean=Бобовый
+cropsnh_mutationPool.berry=Ягодный
+cropsnh_mutationPool.black=Чёрный
+cropsnh_mutationPool.blaze=Ифритовый
+cropsnh_mutationPool.blue=Синий
+cropsnh_mutationPool.brown=Коричневый
+cropsnh_mutationPool.bush=Кустистый
+cropsnh_mutationPool.cactus=Кактусовый
+cropsnh_mutationPool.chicken=Куриный
+cropsnh_mutationPool.climbable=Вьющийся
+cropsnh_mutationPool.coal=Угольный
+cropsnh_mutationPool.copper=Медный
+cropsnh_mutationPool.cotton=Хлопковый
+cropsnh_mutationPool.cow=Коровий
+cropsnh_mutationPool.crystal=Кристаллический
+cropsnh_mutationPool.danger=Опасный
+cropsnh_mutationPool.dark=Тёмный
+cropsnh_mutationPool.dense=Густой
+cropsnh_mutationPool.evil=Зловещий
+cropsnh_mutationPool.fire=Огненный
+cropsnh_mutationPool.fish=Рыбный
+cropsnh_mutationPool.flower=Цветочный
+cropsnh_mutationPool.food=Пищевой
+cropsnh_mutationPool.gold=Золотой
+cropsnh_mutationPool.gray=Серый
+cropsnh_mutationPool.green=Зелёный
+cropsnh_mutationPool.healing=Целебный
+cropsnh_mutationPool.ingredient=Ингредиентный
+cropsnh_mutationPool.iron=Железный
+cropsnh_mutationPool.lead=Свинцовый
+cropsnh_mutationPool.leafy=Лиственный
+cropsnh_mutationPool.light=Светлый
+cropsnh_mutationPool.magic=Магический
+cropsnh_mutationPool.metal=Металлический
+cropsnh_mutationPool.mushroom=Грибной
+cropsnh_mutationPool.nether=Адский
+cropsnh_mutationPool.oil=Нефтяной
+cropsnh_mutationPool.orange=Оранжевый
+cropsnh_mutationPool.oreBerry=Рудоягодный
+cropsnh_mutationPool.poison=Ядовитый
+cropsnh_mutationPool.purple=Фиолетовый
+cropsnh_mutationPool.red=Красный
+cropsnh_mutationPool.reed=Тростниковый
+cropsnh_mutationPool.root=Корневой
+cropsnh_mutationPool.saltpeter=Селитровый
+cropsnh_mutationPool.shiny=Блестящий
+cropsnh_mutationPool.silk=Шёлковый
+cropsnh_mutationPool.silver=Серебряный
+cropsnh_mutationPool.stem=Стеблевой
+cropsnh_mutationPool.sticky=Липкий
+cropsnh_mutationPool.stone=Каменный
+cropsnh_mutationPool.sulfur=Серный
+cropsnh_mutationPool.tendrilly=Усиковый
+cropsnh_mutationPool.tin=Оловянный
+cropsnh_mutationPool.tree=Древесный
+cropsnh_mutationPool.tulip=Тюльпановый
+cropsnh_mutationPool.twilightForest=Twilight Forest
+cropsnh_mutationPool.undead=Нежити
+cropsnh_mutationPool.void=Пустотный
+cropsnh_mutationPool.water=Водный
+cropsnh_mutationPool.wheat=Пшеничный
+cropsnh_mutationPool.white=Белый
+cropsnh_mutationPool.wood=Деревянный
+cropsnh_mutationPool.yellow=Жёлтый
+
+# Soil List
+cropsnh_soilList.global.tooltip=Grows on any soil
+cropsnh_soilList.global.wrongSoil=A crop that can grow on any soil somehow couldn't be planted. Please report this as a bug if you see this message!
+cropsnh_soilList.farmland.tooltip=Grows on farmland
+cropsnh_soilList.farmland.wrongSoil=This seed can only be planted on farmland!
+cropsnh_soilList.sand.tooltip=Grows on sand
+cropsnh_soilList.sand.wrongSoil=This seed can only be planted on sand!
+cropsnh_soilList.soulsand.tooltip=Grows on soul sand
+cropsnh_soilList.soulsand.wrongSoil=This seed can only be planted on soul sand!
+cropsnh_soilList.dirtGrass.tooltip=Grows on dirt or grass
+cropsnh_soilList.dirtGrass.wrongSoil=This seed can only be planted on dirt or grass!
+cropsnh_soilList.mycelium.tooltip=Grows on mycelium
+cropsnh_soilList.mycelium.wrongSoil=This seed can only be planted on mycelium!
+cropsnh_soilList.end.tooltip=Grows on endstone
+cropsnh_soilList.end.wrongSoil=This seed can only be planted on endstone!
+cropsnh_soilList.stone.tooltip=Grows on stone
+cropsnh_soilList.stone.wrongSoil=This seed can only be planted on stone!
+cropsnh_soilList.netherrack.tooltip=Grows on netherrack
+cropsnh_soilList.netherrack.wrongSoil=This seed can only be planted on netherrack!
+cropsnh_soilList.brick.tooltip=Grows on bricks
+cropsnh_soilList.brick.wrongSoil=This seed can only be planted on bricks!
+cropsnh_soilList.thaumLogs.tooltip=Grows on greatwood or silverwood logs
+cropsnh_soilList.thaumLogs.wrongSoil=This seed can only be planted on greatwood or silverwood logs!
+cropsnh_soilList.graveyard.tooltip=Grows on graveyard soil
+cropsnh_soilList.graveyard.wrongSoil=This seed can only be planted on graveyard soil!
+cropsnh_soilList.slimy.tooltip=Grows on slimy dirt or slimy grass
+cropsnh_soilList.slimy.wrongSoil=This seed can only be planted on slimy dirt or slimy grass!
+cropsnh_soilList.gravel.tooltip=Grows on gravel
+cropsnh_soilList.gravel.wrongSoil=This seed can only be planted on gravel!
+cropsnh_soilList.oilSands.tooltip=Grows on oil sands
+cropsnh_soilList.oilSands.wrongSoil=This seed can only be planted on oil sands!
+cropsnh_soilList.mushroom.tooltip=Grows on stone, dirt, grass or mycelium
+cropsnh_soilList.mushroom.wrongSoil=This seed can only be planted on stone, dirt, grass or mycelium!
+cropsnh_soilList.netherMushroom.tooltip=Grows on stone, dirt, grass or mycelium or netherrack
+cropsnh_soilList.netherMushroom.wrongSoil=This seed can only be planted on stone, dirt, grass or mycelium or netherrack!
+cropsnh_soilList.sugarcane.tooltip=Grows on sand, dirt and grass
+cropsnh_soilList.sugarcane.wrongSoil=This seed can only be planted on sand, dirt and grass!
+cropsnh_soilList.slimyDirt.tooltip=Grows on dirt, grass or slimy dirt or slimy grass
+cropsnh_soilList.slimyDirt.wrongSoil=This seed can only be planted on dirt, grass or slimy dirt or slimy grass!
+cropsnh_soilList.oil.tooltip=Grows on sand, gravel, soul sand, or oil sands
+cropsnh_soilList.oil.wrongSoil=This seed can only be planted on sand, gravel, soul sand, or oil sands!

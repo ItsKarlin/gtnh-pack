@@ -1,0 +1,8 @@
+name = "Salis Arcana"
+filename = "salisarcana-v2.7.0.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8926/401/salisarcana-v2.7.0.jar"
+hash-format = "sha256"
+hash = "d4c0a9216973cb460a0553147b1ebb396113810eae7b64231a89a7f26c993b74"

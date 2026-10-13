@@ -1,0 +1,8 @@
+name = "ForbiddenMagic"
+filename = "Forbidden.Magic-0.9.17-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/ForbiddenMagic/releases/download/0.9.17-GTNH/Forbidden.Magic-0.9.17-GTNH.jar"
+hash-format = "sha256"
+hash = "5abd26dff612190405ac0d60875e0bf1c67796ed1c3c496481d70e89c93353d6"

@@ -1,0 +1,8 @@
+name = "Avaritia"
+filename = "Avaritia-1.99.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Avaritia/releases/download/1.99/Avaritia-1.99.jar"
+hash-format = "sha256"
+hash = "ab92ad6d0a6b49f3fc43b9705cdfd591d9b0e4723112852e7e5352aa1b61316e"

@@ -1,0 +1,8 @@
+name = "BlockRenderer6343"
+filename = "blockrenderer6343-1.4.24.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/BlockRenderer6343/releases/download/1.4.24/blockrenderer6343-1.4.24.jar"
+hash-format = "sha256"
+hash = "69f968af3015ab3ea386f8e61205b3d1918ada3bc94e0fbd7414849dc481af10"

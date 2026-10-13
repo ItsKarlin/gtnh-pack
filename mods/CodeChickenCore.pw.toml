@@ -1,0 +1,8 @@
+name = "CodeChickenCore"
+filename = "CodeChickenCore-1.4.22.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.4.22/CodeChickenCore-1.4.22.jar"
+hash-format = "sha256"
+hash = "0ff66294703701f156fb493265bf5b3572c4566127ce895095332d2cfe9205c1"

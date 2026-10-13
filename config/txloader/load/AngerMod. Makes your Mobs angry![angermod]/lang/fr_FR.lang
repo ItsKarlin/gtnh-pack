@@ -1,0 +1,13 @@
+angermod.commands.angerprotection.usage=/angerprotection <joueur> give/remove
+angermod.commands.angerprotection.disabled=La protection du spawn n’est pas activée.
+angermod.commands.angerprotection.wrong_action=Action inconnue : vous devez spécifier soit « give », soit « remove »
+angermod.commands.angerprotection.given=Protection accordée à %s joueur(s)
+angermod.commands.angerprotection.removed=Protection retirée à %s joueur(s)
+
+angermod.config.friendly-animal-revenge=Vengeance des animaux amicaux
+angermod.config.kamikaze=Kamikaze
+angermod.config.block-break-anger=Colère due à la destruction de blocs
+angermod.config.spawn-protection=Protection du spawn des joueurs
+
+yamcore.char.protection.give=Une bulle magique de protection apparaît...
+yamcore.char.protection.remove=Votre bulle magique de protection disparaît...

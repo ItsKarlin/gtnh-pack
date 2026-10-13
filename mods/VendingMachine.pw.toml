@@ -1,0 +1,8 @@
+name = "VendingMachine"
+filename = "vendingmachine-0.4.101.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/VendingMachine/releases/download/0.4.101/vendingmachine-0.4.101.jar"
+hash-format = "sha256"
+hash = "59284120547623738a47444a6505d635d33d6f90052262ce81dbe00a2f773437"

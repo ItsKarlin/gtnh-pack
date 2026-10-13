@@ -1,0 +1,8 @@
+name = "ThaumicMachina"
+filename = "ThaumicMachina-0.2.6-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/ThaumicMachina/releases/download/0.2.6-GTNH/ThaumicMachina-0.2.6-GTNH.jar"
+hash-format = "sha256"
+hash = "7028c43245d62f1304067f7d2704c005696cf0fc1e0b50a72ed26619adaa0efe"

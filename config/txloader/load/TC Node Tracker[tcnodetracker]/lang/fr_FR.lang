@@ -1,0 +1,41 @@
+# Key Config
+key.cat.tcnodetracker=TC Node Tracker
+key.aspectMenu=Liste des Nodes
+# Thaumcraft Aspect Types
+nodetype.NORMAL.name=Normal
+nodetype.UNSTABLE.name=Instable
+nodetype.DARK.name=Sinistre
+nodetype.PURE.name=Pure
+nodetype.TAINTED.name=Tainté
+nodetype.HUNGRY.name=Affamé
+nodemod.BRIGHT.name=Lumineux
+nodemod.PALE.name=Pâle
+nodemod.FADING.name=Dépérissant
+# Buttons
+btn.mark.name=Marquer
+btn.delete.name=Suppr.
+btn.cleararrow.name=Effacer la flèche
+btn.config.name=Configuration
+btn.up.name=HAUT
+btn.down.name=BAS
+btn.left.name=GAUCHE
+btn.right.name=DROITE
+btn.reset.name=RÉINITIALISER
+btn.arrowtype.name=Type de flèche
+# Other
+str.distance.name=Dist.
+str.type.name=Type
+str.instruction.name=Cliquer sur l'Aspect pour obtenir la Liste des Nodes
+str.configarrow.name=# Blocs - En dessous
+str.above.name=Au dessus
+str.below.name=En dessous
+str.level.name=Niveau
+str.blocks.name=Blocs
+
+tcnodetracker.button.nodes=Afficher les nœuds TC
+tcnodetracker.node.deletehint=Marquer les nœuds épuisés avec %s
+tcnodetracker.key.togglenode=Activer/désactiver l'overlay des nœuds
+tcnodetracker.tracked=Suivi : %s
+tcnodetracker.iswaypoint=Actif comme point de passage
+
+

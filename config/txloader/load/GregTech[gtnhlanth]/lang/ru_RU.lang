@@ -1,0 +1,236 @@
+# RecipeMaps
+gtnhlanth.recipe.digester=Дигестор
+gtnhlanth.recipe.disstank=Реактор-разбавитель
+gtnhlanth.recipe.tc=Приёмник элементарных частиц
+gtnhlanth.recipe.sc=Источник элементарных частиц
+
+gtnhlanth.tt.beaminfo=Используйте §bпортативный сканер §7для получения информации о входе/выходе этого мультиблока
+gtnhlanth.tt.blueprint=Чтобы увидеть структуру, используйте §9Structure§2Lib§7 голограммный проектор на контроллере!
+
+gtnhlanth.tt.hintNumber=Блок подсказки под №%s
+
+# Digester
+gtnhlanth.tt.digester.machinetype=Дигестер
+gtnhlanth.tt.digester.structure.any_casing=Любой корпус из вольфрамовой стали
+gtnhlanth.tt.digester.structure.air=Внутри и над структурой
+gtnhlanth.tt.disstank.structure.any_casing=Any stainless steel casing
+gtnhlanth.tt.linac.structure.hatch_pos=Any bottom edge casing 3-8 blocks from front
+gtnhlanth.tt.linac.structure.input_hatch_pos=Top center casing 8th block from front
+gtnhlanth.tt.linac.structure.output_hatch_pos=Top center casing 8th block from back
+gtnhlanth.tt.sc.structure.output_pos=Behind controller
+gtnhlanth.tt.synch.structure.antenna_casing=Корпус антенны
+gtnhlanth.tt.synch.structure.energy_pos=Above each antenna casing
+gtnhlanth.tt.synch.structure.input_hatch_pos=Between the energy hatches
+gtnhlanth.tt.synch.structure.output_hatch_pos=Opposite the input hatches
+gtnhlanth.tt.synch.structure.beam_input_pos=Left of controller
+gtnhlanth.tt.synch.structure.beam_output_pos=Right and back of controller
+gtnhlanth.tt.tc.structure.input_bus_pos=2nd top center casing from front (masks) and back (wafers)
+
+# Dissolution Tank
+gtnhlanth.tt.disstank.machinetype=Реактор-разбавитель
+
+# Source Chamber
+gtnhlanth.tt.sc.machinetype=Источник частиц
+gtnhlanth.tt.sc.input=§cRequires 1 input bus OR 1 input hatch
+
+# Linear Accelerator
+gtnhlanth.tt.linac.machinetype=Ускоритель частиц, LINAC
+
+# Synchrotron
+gtnhlanth.tt.synch.machinetype=Ускоритель частиц
+
+# Target Chamber
+gtnhlanth.tt.tc.machinetype=Камера столкновений
+
+# Beam Coolant
+gtnhlanth.tt.coolant.oxygen=§bЖидкий кислород§f: 90 K
+gtnhlanth.tt.coolant.nitrogen=§bЖидкий азот§f: 77 K
+gtnhlanth.tt.coolant.coolant=§bХладагент§f: 60 K
+gtnhlanth.tt.coolant.Scoolant=§bПромышленный хладагент§f: 1 K
+
+# Beam Hatches
+gtnhlanth.tt.hatch.beaminput=Впускной лучевой шлюз
+gtnhlanth.tt.hatch.beamoutput=Выпускной лучевой шлюз
+gtnhlanth.tt.hatch.beamoutputfiltered=Фильтруемый выпускной лучевой шлюз
+gtnhlanth.tt.hatch.focus=Входной люк фокусировки
+
+GT5U.gui.text.shutdown_reason.gtnhlanth.nocoolant=В механизме отсутствует хладагент!
+GT5U.gui.text.shutdown_reason.gtnhlanth.inscoolant=В механизме недостаточно хладагента!
+GT5U.gui.text.shutdown_reason.gtnhlanth.noaccel=Частицы данного типа не могут быть ускорены!
+GT5U.gui.text.shutdown_reason.gtnhlanth.low_input_eut=Входной вольтаж EU/t слишком низкий для образования фотонов!
+GT5U.gui.text.shutdown_reason.gtnhlanth.scerror=Математическая ошибка, неверный рецепт?
+GT5U.gui.text.shutdown_reason.gtnhlanth.inputinterrupt=Входной пучок нельзя прерывать или изменять!
+GT5U.gui.text.recipe_result.dissolution_ratio=§7Неправильное соотношение подачи жидкости!
+GT5U.gui.text.recipe_result.gtnhlanth.wrongparticle=Неверная частица!
+GT5U.gui.text.recipe_result.gtnhlanth.toolowenergy=Энергия ниже требуемого уровня!
+GT5U.gui.text.recipe_result.gtnhlanth.toohighenergy=Above Required Energy!
+GT5U.gui.text.shutdown_reason.gtnhlanth.noparticle=Частица отсутствует (скорость равна 0)!
+GT5U.gui.text.shutdown_reason.gtnhlanth.boostinterrupt=Not enough booster fluid supplied!
+
+# NEI
+value.disstank=Соотношение: %s:1
+
+fluid.Antimony Pentafluoride Solution=Раствор пентафторида сурьмы
+fluid.Hafnium Tetrachloride Solution=Раствор тетрахлорида гафния
+fluid.Zirconium Tetrachloride Solution=Раствор тетрахлорида циркония
+fluid.Iodine=Йод
+fluid.Muddy Monazite Rare Earth Solution=Монацитовый редкоземельный мутный раствор
+fluid.Diluted Monazite Rare Earth Mud=Разбавленная монацитовая редкоземельная взвесь
+fluid.Diluted Monazite Sulfate=Раствор сернокислого монацита
+fluid.Nitrogenated Monazite Rare Earth Concentrate=Нитрованный монацитовый редкоземельный концентрат
+fluid.Nitric Monazite Leached Concentrate=Выщелоченный нитрованный монацитовый концентрат
+fluid.Ammonium Nitrate Solution=Раствор нитрата аммония
+fluid.Seaweed Concentrate=Экстракт морских водорослей
+fluid.Potassium Permanganate Solution=Раствор перманганата калия
+fluid.Seaweed Byproducts=Побочные продукты переработки водорослей
+fluid.Nitric-Leached Monazite Mixture=Разбавленная нитрованная монацитовая смесь
+fluid.Muddy Bastnasite Rare Earth Solution=Бастнезитовый редкоземельный мутный раствор
+fluid.Sodiumfluorosilicate=Фторосиликат натрия
+fluid.Steam-Cracked Bastnasite Mud=Бастнезитовая взвесь расщепленная паром
+fluid.Conditioned Bastnasite Mud=Подготовленная бастнезитовая взвесь
+fluid.Diluted Bastnasite Mud=Разбавленная бастнезитовая взвесь
+fluid.Filtered Bastnasite Mud=Фильтрованная бастнезитовая взвесь
+fluid.Nitrogenated Bastnasite Rarer Earth Oxides=Нитрованные обогащённые бастназитовые редкие земли
+fluid.Bastnasite Rarer Earth Oxide Suspension=Суспензия обогащённых бастнезитовых редких земель
+fluid.Calcium Fluoride=Фторид кальция
+fluid.Tetrahydrofuran=Тетрагидрофуран
+"fluid.1,4-Butanediol"=1,4-Бутандиол
+"fluid.Acidicised 1,4-Butanediol"="подкисленный 1,4-бутандиол"
+fluid.Polytetrahydrofuran=Политетрагидрофуран
+fluid.Tungstophosphoric Acid=Фосфорновольфрамовая кислота
+fluid.Toluene Diisocyanate=Толуолдиизоцианат
+fluid.Dinitrotoluene=Динитротолуол
+fluid.Diaminotoluene=Диаминотолуол
+fluid.Toluene Tetramethyl Diisocyanate=Тетраметилтолуолдиизоцианат
+fluid.Diluted Acetone=Разбавленный ацетон
+
+tile.casing.shielded_accelerator_glass.name=Экранированное стекло ускорителя
+casing.electrode.name=Электродный корпус
+casing.coolant_delivery.name=Корпус подачи хладагента
+casing.antenna_t1.name=Корпус антенны (T1)
+casing.antenna_t2.name=Корпус антенны (T2)
+casing.niobium_cavity.name=Ниобиевый полый корпус
+casing.focus_manipulator.name=Манипулятор фокусировки
+casing.focus_holder.name=Держатель фокуса
+casing.target_receptacle.name=Целевой приёмник
+casing.target_holder.name=Приёмник образцов
+casing.shielded_accelerator.name=Экранированный корпус ускорителя
+
+item.capillary_exchange.name=Капиллярный аппарат
+item.mm_lattice.name=Решётка из мю-металла
+item.iron_quartz_plate.name=Железо-кварцевая пластина
+item.mask_substrate.name=Маска-субстрат
+item.etched_mask1.name=Гравированная маска
+item.substrate_precursor.name=Прекурсор субстрата
+item.masked_mask_substrate.name=Обработанная маска-субстрат
+
+
+beamline.info=Информация о механизме
+beamline.info.hdr=§lИнформация о механизме: §r
+
+beamline.in_pre=Мультиблочный вход установки для литографии
+beamline.in_pre.hdr=§lМультиблочный вход установки для литографии: §r
+beamline.particle=Частица
+beamline.particle.fmt=Частица: §6%s (%s)§r
+beamline.energy=Энергия
+beamline.energy.eV.fmt=Энергия: §4%s§r eV
+beamline.energy.keV.fmt=Энергия: §4%s§r keV
+beamline.focus=Фокус
+beamline.focus.fmt=Фокус: §9%s§r
+beamline.amount=Количество
+beamline.amount.fmt=Количество: §d%s§r
+beamline.rate=Скорость
+beamline.materialenergy=Max Material Energy
+beamline.particleenergy=Max Particle Energy
+beamline.energyratio=Соотношение энергии
+beamline.temperature=Температура
+beamline.temperature.fmt=Температура: §4%s§r K
+beamline.coolusage=Расходуется хладагента
+beamline.coolusage.fmt=Расходуется хладагента: §b%s§r kЛ/с
+
+beamline.out_pre=Мультиблочный выход установки для литографии
+beamline.out_pre.hdr=§lМультиблочный выход установки для литографии: §r
+
+gt.blockmachines.beamline_pipe.name=Лучевая труба
+
+beamline.pipe.desc.0=Транспорт для частиц
+beamline.pipe.desc.1=Сигнал не пересекается и не изгибается
+
+
+tile.recipe.tc=Приёмник элементарных частиц
+tile.recipe.sc=Источник элементарных частиц
+
+item.particle.name=Частица
+particle.photon=Фотон
+particle.zboson=Z Бозон
+particle.wboson=W Бозон
+particle.higgs=Бозон Хиггса
+particle.graviton=Гравитон
+particle.electron=Электрон
+particle.muon=Мюон
+particle.tau=Тау
+particle.electron_neutrino=Электрон нейтрино
+particle.muon_neutrino=Мюон нейтрино
+particle.tau_neutrino=Тау нейтрино
+particle.proton=Протон
+particle.neutron=Нейтрон
+particle.lambda=Λ Лямбда
+particle.omega=Ω Омега
+particle.eta=Эта-мезон
+particle.jpsi=J/ψ-мезон
+particle.upsilon=Ипсилон
+particle.alpha=α Альфа
+
+beamcrafting.energy_A=Мин. энергия 1
+beamcrafting.energy_B=Мин. энергия 2
+beamcrafting.amount_A=Количество 1
+beamcrafting.amount_B=Количество 2
+
+tooltip.gtnhlanth.particle.rest_mass=Масса покоя: %f MeV
+tooltip.gtnhlanth.particle.charge=Заряд: %s e
+tooltip.gtnhlanth.photomask.desc_spectrum=Подходит для %s-го сегмента электромагнитного спектра и ниже
+tooltip.gtnhlanth.photomask.max_uses=Макс. использований: %d
+
+# Multiblocks
+gt.blockmachines.digester.name=Дигестор
+gt.blockmachines.dissolution_tank.name=Реактор-разбавитель
+gt.blockmachines.linear_accelerator.name=Линейный ускоритель
+gt.blockmachines.source_chamber.name=Источник элементарных частиц
+gt.blockmachines.synchrotron.name=Синхротрон
+gt.blockmachines.target_chamber.name=Приёмник элементарных частиц
+
+# Photolithographic Masks
+item.photomask.acc.name=Маска (Улучшенный кристаллический чип)
+item.photomask.asoc.name=Маска (Продвинутая система на чипе)
+item.photomask.blank1.name=Маска (T1 Плита)
+item.photomask.blank2.name=Маска (T2 Плита)
+item.photomask.blank3.name=Маска (T3 Плита)
+item.photomask.cblank.name=Маска (Кристалл)
+item.photomask.ccpu.name=Маска (Кристаллическое процессорное устройство)
+item.photomask.cpu.name=Маска (Центральное процессорное устройство)
+item.photomask.csoc.name=Маска (Кристаллическая система на чипе)
+item.photomask.elc.name=Маска (Гравированный лазуротроновый чип)
+item.photomask.fpic.name=Маска (FPIC)
+item.photomask.hpic.name=Маска (Высокомощная интегральная электросхема)
+item.photomask.ilc.name=Маска (Логическая интегральная схема)
+item.photomask.lcc.name=Маска (Живой кристаллический чип)
+item.photomask.lpic.name=Маска (Малой мощности интегральная электросхема)
+item.photomask.nand.name=Маска (NAND)
+item.photomask.ncpu.name=Маска (Нанокомпонентный ЦП)
+item.photomask.nor.name=Маска (NOR)
+item.photomask.npic.name=Маска (Нано интегральная электросхема)
+item.photomask.pic.name=Маска (Мощная интегральная электросхема)
+item.photomask.ppic.name=Маска (PPIC)
+item.photomask.prcpu.name=Маска (Подготовленное центральное процессорное устройство)
+item.photomask.prhpic.name=Маска (Подготовленная высокомощная интегральная электросхема)
+item.photomask.prncpu.name=Маска (Подготовленный нанокомпонентный ЦП)
+item.photomask.prnpic.name=Маска (Подготовленная нано интегральная электросхема)
+item.photomask.prpic.name=Маска (Подготовленная мощная интегральная электросхема)
+item.photomask.prqpic.name=Маска (Подготовленная квантовая интегральная электросхема)
+item.photomask.qbit.name=Маска (QBit)
+item.photomask.qpic.name=Маска (QPIC)
+item.photomask.ram.name=Маска (Чип оперативной памяти)
+item.photomask.soc.name=Маска (Система на чипе)
+item.photomask.ssoc.name=Маска (Простая система на чипе)
+item.photomask.uhpic.name=Маска (Сверхвысокой мощности интегральная электросхема)
+item.photomask.ulpic.name=Маска (Сверхмалой мощности интегральная электросхема)

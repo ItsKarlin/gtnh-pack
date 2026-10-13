@@ -1,0 +1,8 @@
+name = "GT5-Unofficial"
+filename = "gregtech-5.09.54.205.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.205/gregtech-5.09.54.205.jar"
+hash-format = "sha256"
+hash = "d5cac894cb6da544c841daf3ee3a7a335afb181bafb57b91d3ab06f0ca23933c"

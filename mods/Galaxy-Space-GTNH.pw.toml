@@ -1,0 +1,8 @@
+name = "Galaxy-Space-GTNH"
+filename = "GalaxySpace-1.1.143-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://nexus.gtnewhorizons.com/repository/public/com/github/GTNewHorizons/Galaxy-Space-GTNH/1.1.143-GTNH/Galaxy-Space-GTNH-1.1.143-GTNH.jar"
+hash-format = "sha256"
+hash = "d3bb6e79c1fa022adef4d1629e1188ae6fb07c79b9461de83ea5318326445099"

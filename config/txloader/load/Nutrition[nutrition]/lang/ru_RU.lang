@@ -1,0 +1,39 @@
+# Keys
+key.nutrition=Открыть интерфейс питания
+
+# GUI
+gui.nutrition:nutrition_title=Питательные компоненты
+gui.nutrition:close=Закрыть
+gui.nutrition:updating=Обновление...
+
+# Nutrients
+nutrient.nutrition:grain=Зерновые
+nutrient.nutrition:fruit=Фрукты
+nutrient.nutrition:vegetable=Овощи
+nutrient.nutrition:protein=Белки
+nutrient.nutrition:dairy=Молочные
+
+# Tooltips
+tooltip.nutrition:nutrients=Питательные компоненты:
+
+# Potions
+potion.nutrition:toughness=Выносливость
+potion.nutrition:nourished=Сытость
+potion.nutrition:malnourished=Недоедание
+
+#Commands
+command.nutrition:usage=Команды Nutrition: help, get, set, add, subtract, reset, reload
+command.nutrition:help.1=Справка Nutrition:
+command.nutrition:help.2=/nutrition get <игрок> [питательное вещество] - показывает питательные вещества игрока; при необходимости можно указать конкретное питательное вещество.
+command.nutrition:help.3=/nutrition set <игрок> <питательное вещество> <значение> - устанавливает значение выбранного питательного вещества для игрока.
+command.nutrition:help.4=/nutrition add <игрок> <питательное вещество> <значение> - увеличивает значение выбранного питательного вещества у игрока на указанное количество.
+command.nutrition:help.5=/nutrition subtract <игрок> <питательное вещество> <значение> - уменьшает значение выбранного питательного вещества у игрока на указанное количество.
+command.nutrition:help.6=/nutrition reset <игрок> [питательное вещество] - сбрасывает показатели питания игрока; при необходимости можно указать конкретное питательное вещество.
+command.nutrition:help.7=/nutrition reload - перезагружает настройки питательных веществ и эффектов зелий из конфигурации.
+command.nutrition:get=%s: %s%%
+command.nutrition:get_all_header=%s's Питательные вещества игрока
+command.nutrition:get_all_line=- %s: %s%%
+command.nutrition:set=Питательное вещество «%s» для %s установлено на уровне %s%%
+command.nutrition:reset=Питательное вещество «%s» сброшено для игрока %s
+command.nutrition:reset_all=Все показатели питания игрока сброшены %s
+command.nutrition:reload=Питательные вещества и эффекты перезагружены

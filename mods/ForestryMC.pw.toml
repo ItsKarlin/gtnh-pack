@@ -1,0 +1,8 @@
+name = "ForestryMC"
+filename = "Forestry-4.11.39.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.11.39/Forestry-4.11.39.jar"
+hash-format = "sha256"
+hash = "f3cacea1f523a5b94bf3f7bcc811c49dd5224d5024ac3d98fb6ac3b26a51547f"

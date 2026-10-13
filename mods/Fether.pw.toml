@@ -1,0 +1,8 @@
+name = "Fether"
+filename = "fether-2.0.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Fether/releases/download/2.0.7/fether-2.0.7.jar"
+hash-format = "sha256"
+hash = "77c607f60105e8e5b933e19661a95922bede3d854c96f3529d84981b58f8ad4b"

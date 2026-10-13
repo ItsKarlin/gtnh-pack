@@ -1,0 +1,14 @@
+{
+  "id": "stargate_2.3",
+  "condition": {
+    "type": "inventory.add",
+    "item": "minecraft:paper",
+    "meta": 4
+  },
+  "page": "GT New Horizons",
+  "x": 15,
+  "y": 6,
+  "icon": {
+    "registryName": "dreamcraft:HarmonicGatePlate"
+  }
+}

@@ -1,0 +1,8 @@
+name = "AdventureBackpack2"
+filename = "adventurebackpack-1.4.26-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/AdventureBackpack2/releases/download/1.4.26-GTNH/adventurebackpack-1.4.26-GTNH.jar"
+hash-format = "sha256"
+hash = "6a93c6bff8cfc589be656d9f68925db7483be4d922a1b3e35922c984cc4d7b4c"

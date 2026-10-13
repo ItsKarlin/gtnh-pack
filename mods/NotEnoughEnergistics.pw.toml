@@ -1,0 +1,8 @@
+name = "NotEnoughEnergistics"
+filename = "NotEnoughEnergistics-1.7.46.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.7.46/NotEnoughEnergistics-1.7.46.jar"
+hash-format = "sha256"
+hash = "18152a80e04bb20e9bab405535fa822a3659d28a4b8a456d895b779b76c8d140"

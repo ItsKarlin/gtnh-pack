@@ -1,0 +1,8 @@
+name = "SGCraft"
+filename = "SGCraft-1.4.13-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/SGCraft/releases/download/1.4.13-GTNH/SGCraft-1.4.13-GTNH.jar"
+hash-format = "sha256"
+hash = "9f86436d8ce556f86a37cbf278b95fadbb3a4a5ba187cf9eebe7d80a731ea831"

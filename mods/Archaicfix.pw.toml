@@ -1,0 +1,8 @@
+name = "Archaicfix"
+filename = "archaicfix-0.8.0.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8125/364/archaicfix-0.8.0.jar"
+hash-format = "sha256"
+hash = "15d0de52361ab20057e14c2a0bec7b8614c63bcef1b010490506ea00ae79011e"

@@ -1,0 +1,8 @@
+name = "NewHorizonsCoreMod"
+filename = "GTNewHorizonsCoreMod-2.9.84.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.84/GTNewHorizonsCoreMod-2.9.84.jar"
+hash-format = "sha256"
+hash = "1a232869786faca607a75e57b7e113ca688334fd28118ec4c336e318a018af35"

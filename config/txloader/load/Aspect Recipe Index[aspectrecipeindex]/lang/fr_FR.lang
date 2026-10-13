@@ -1,0 +1,28 @@
+aspectrecipeindex.items_containing_aspect.title=Objets contenant l'aspect
+aspectrecipeindex.items_containing_aspect.still_load=Chargement en cours... (%s/%s)
+aspectrecipeindex.items_containing_aspect.aspect_list=Aspects
+aspectrecipeindex.aspect_combination.title=Combinaison d'aspects
+aspectrecipeindex.alchemy.title=Alchimie
+aspectrecipeindex.infusion.title=Infusion arcanique
+aspectrecipeindex.shaped_arcane_crafting.title=Fabrication arcanique avec forme
+aspectrecipeindex.wand_crafting.title=Fabrication de baguettes
+aspectrecipeindex.shapeless_arcane_crafting.title=Fabrication arcanique sans forme
+
+aspectrecipeindex.research.missing=Vous n'avez pas terminé les recherches nécessaires pour fabriquer cet objet
+aspectrecipeindex.research.researchName=Recherche
+aspectrecipeindex.research.researchName_rod=Recherche de bâton
+aspectrecipeindex.research.researchName_cap=Recherche de capuchon
+aspectrecipeindex.research.prerequisites.parents=Recherche parente
+aspectrecipeindex.research.prerequisites.parentsHidden=Recherche parente cachée
+aspectrecipeindex.research.prerequisites.item=Analyser l'objet
+aspectrecipeindex.research.prerequisites.entity=Analyser l'entité
+aspectrecipeindex.research.prerequisites.aspect=Analyser l'aspect
+aspectrecipeindex.research.prerequisites.kill=Tuer et analyser
+aspectrecipeindex.research.prerequisites.allresearched=Vous avez effectué toutes les recherches nécessaires
+
+aspectrecipeindex.gui.nei.seeAll=Tout afficher
+
+aspectrecipeindex.aspect.undiscovered=%s (Non découvert)
+
+tc.research_name.CAP_iron=Thaumaturgie de base
+tc.research_name.ROD_wood=Thaumaturgie de base

@@ -1,0 +1,8 @@
+name = "Binnie"
+filename = "binnie-mods-2.6.48.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Binnie/releases/download/2.6.48/binnie-mods-2.6.48.jar"
+hash-format = "sha256"
+hash = "85b540b83c0c65eb7227ff4757d578e98ee34cb2ed18a8ceb5c487f1318e3cf4"

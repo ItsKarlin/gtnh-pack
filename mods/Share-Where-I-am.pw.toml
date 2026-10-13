@@ -1,0 +1,8 @@
+name = "Share-Where-I-am"
+filename = "sharewhereiam-2.1.11.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Share-Where-I-am/releases/download/2.1.11/sharewhereiam-2.1.11.jar"
+hash-format = "sha256"
+hash = "6c5cfb3bcc87e64a6a38d7fd1458c42def6df69f545b0fe1d4f9adc0005dc0ee"

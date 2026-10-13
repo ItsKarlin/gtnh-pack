@@ -1,0 +1,8 @@
+name = "MalisisDoors"
+filename = "malisisdoors-1.19.11-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/MalisisDoors/releases/download/1.19.11-GTNH/malisisdoors-1.19.11-GTNH.jar"
+hash-format = "sha256"
+hash = "af3336e1ddeed28dc64aeeca49c23ded3214e14da8f02705b4c4ac177e66a357"

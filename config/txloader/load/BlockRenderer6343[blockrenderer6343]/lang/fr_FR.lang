@@ -1,0 +1,22 @@
+blockrenderer6343.multiblock.structure=Structure multibloc
+blockrenderer6343.no_space=Pas assez d'espace !
+blockrenderer6343.multiblock.project=Projeter la structure multibloc
+blockrenderer6343.multiblock.overlay=Superposition NEI
+blockrenderer6343.multiblock.copy_channels=Copier les canaux vers le projecteur d'hologramme tenu
+blockrenderer6343.no_projector=Aucun projecteur d’hologramme trouvé dans la main
+blockrenderer6343.no_block=Impossible de trouver le bloc sur lequel le placer
+blockrenderer6343.nei.tier=Tier
+blockrenderer6343.nei.layer=Couche
+blockrenderer6343.nei.hatch_highlight=Activer/Désactiver la surbrillance de la position des trappes
+blockrenderer6343.nei.hint_dot=Point d’indice : %s
+blockrenderer6343.nei.valid_hatches=Trappes valides : %s
+blockrenderer6343.nei.all=Tous
+blockrenderer6343.nei.not_set=Non réglé
+
+nei.options.blockrenderer6343=BlockRenderer6343
+nei.options.blockrenderer6343.auto_fill_pattern=Remplissage automatique des fausses recettes via l'overlay NEI
+nei.options.blockrenderer6343.auto_fill_pattern.true=Oui
+nei.options.blockrenderer6343.auto_fill_pattern.false=Non
+nei.options.blockrenderer6343.filter_hatch=Filtrer les trappes GT dans l'overlay NEI
+nei.options.blockrenderer6343.filter_hatch.true=Oui
+nei.options.blockrenderer6343.filter_hatch.false=Non

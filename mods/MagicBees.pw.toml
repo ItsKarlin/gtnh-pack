@@ -1,0 +1,8 @@
+name = "MagicBees"
+filename = "magicbees-2.10.12-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/MagicBees/releases/download/2.10.12-GTNH/magicbees-2.10.12-GTNH.jar"
+hash-format = "sha256"
+hash = "6da93fbe224dd30ec0cdb37478ff6eea711ef2908ee8b6466dc2f8c6547257ca"

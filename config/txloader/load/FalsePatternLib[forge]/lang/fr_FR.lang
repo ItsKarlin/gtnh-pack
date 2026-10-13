@@ -1,0 +1,2 @@
+fml.configgui.tooltip.default=[défaut : %s]
+fml.configgui.tooltip.defaultNumeric=[portée: %s ~ %s, défaut: %s]

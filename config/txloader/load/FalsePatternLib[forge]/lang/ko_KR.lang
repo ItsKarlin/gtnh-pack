@@ -1,0 +1,2 @@
+fml.configgui.tooltip.default=[ 기본값: $s ]
+fml.configgui.tooltip.defaultNumeric=[ 범위: %s ~ %s , 기본값: %s ]

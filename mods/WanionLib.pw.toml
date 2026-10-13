@@ -1,0 +1,8 @@
+name = "WanionLib"
+filename = "WanionLib-1.10.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/WanionLib/releases/download/1.10.1/WanionLib-1.10.1.jar"
+hash-format = "sha256"
+hash = "9a4f227026798fb01cbad249bd489e479429336e082471d00e32cc6a15e12886"

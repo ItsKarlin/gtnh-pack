@@ -1,0 +1,8 @@
+name = "JourneyMap"
+filename = "journeymap-1.7.10-5.2.23-fairplay.jar"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8879/298/journeymap-1.7.10-5.2.23-fairplay.jar"
+hash-format = "sha256"
+hash = "70ac2f6e5784958e49dc332b974e3d2896c35535400d05011d609d2ad639e936"

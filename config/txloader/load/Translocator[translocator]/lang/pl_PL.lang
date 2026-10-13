@@ -1,0 +1,12 @@
+tile.translocator.name=Translokator
+tile.translocator|0.name=Translokator Przedmiotów
+tile.translocator|1.name=Translokator Płynów
+tile.craftingGrid.name=Siatka Wytwarzania
+item.translocator:diamondNugget.name=Diamentowy Samorodek
+
+translocator.regulate=Regulacja
+translocator.filter=Filtr
+translocator.update.display=GT Pump Cover Installed: Flow Rate
+translocator.update.display.dupe=GT Pump Cover is the same
+
+key.craftingGrid=Siatka Wytwarzania

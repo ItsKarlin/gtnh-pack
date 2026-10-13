@@ -1,0 +1,8 @@
+name = "TinkersMechworks"
+filename = "TMechworks-0.4.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/TinkersMechworks/releases/download/0.4.2/TMechworks-0.4.2.jar"
+hash-format = "sha256"
+hash = "cef6cf59023a70c6f2043bb341332b63c0bd2b2284656f08a1ccd5f49bc8f253"

@@ -1,0 +1,8 @@
+name = "SleepingBags"
+filename = "sleepingbag-0.3.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/SleepingBags/releases/download/0.3.1/sleepingbag-0.3.1.jar"
+hash-format = "sha256"
+hash = "ae6ac38c4e2bd5d28b64a19b58f6681e477f69492d32231aa0fc12496d2685ae"

@@ -1,0 +1,8 @@
+name = "EnderStorage"
+filename = "EnderStorage-1.8.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/EnderStorage/releases/download/1.8.7/EnderStorage-1.8.7.jar"
+hash-format = "sha256"
+hash = "086d61761a93aead84bb7c37acbe176d0e0a450fd93ab12597c0e05e8ca7ef03"

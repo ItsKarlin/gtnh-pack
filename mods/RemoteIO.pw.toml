@@ -1,0 +1,8 @@
+name = "RemoteIO"
+filename = "RemoteIO-2.7.10.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/RemoteIO/releases/download/2.7.10/RemoteIO-2.7.10.jar"
+hash-format = "sha256"
+hash = "231d77251a3066ebe92f0db5d984110d97864c5f58aac9151e8a0c57bea6574a"

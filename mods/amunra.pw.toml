@@ -1,0 +1,8 @@
+name = "amunra"
+filename = "AmunRa-GC-0.8.14.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/amunra/releases/download/0.8.14/AmunRa-GC-0.8.14.jar"
+hash-format = "sha256"
+hash = "bc9e0ce4e1d52e0627116c29255a61a60a173e5893272caf5cf9e0eea1f8b9f3"

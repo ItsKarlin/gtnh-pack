@@ -1,0 +1,8 @@
+name = "LogisticsPipes"
+filename = "logisticspipes-1.5.36-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/LogisticsPipes/releases/download/1.5.36-GTNH/logisticspipes-1.5.36-GTNH.jar"
+hash-format = "sha256"
+hash = "abf37605e1b89742c7bfdd3ce8aeda4f56556bff3edc67c333a66f580cd26d9e"

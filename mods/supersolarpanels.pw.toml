@@ -1,0 +1,8 @@
+name = "supersolarpanels"
+filename = "supersolarpanel-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/supersolarpanels/releases/download/1.1.5/supersolarpanel-1.1.5.jar"
+hash-format = "sha256"
+hash = "bd33fbdaa3f467838dfa996aa5bb382f46d045e5558fbe09976b614e56f0789b"

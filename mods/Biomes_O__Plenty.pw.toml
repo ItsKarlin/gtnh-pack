@@ -1,0 +1,8 @@
+name = "Biomes O' Plenty"
+filename = "BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/2499/612/BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar"
+hash-format = "sha256"
+hash = "5382d1c156c871c896b6cebd036b80f58ceaff36b09d416b113f32884b7b4a2a"

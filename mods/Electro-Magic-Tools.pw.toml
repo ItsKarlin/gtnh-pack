@@ -1,0 +1,8 @@
+name = "Electro-Magic-Tools"
+filename = "EMT-1.7.25.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Electro-Magic-Tools/releases/download/1.7.25/EMT-1.7.25.jar"
+hash-format = "sha256"
+hash = "0b39b28a125f5c80e234154e1cb79360f0244c8d9e81a9fcb4640c8f0f6eb621"

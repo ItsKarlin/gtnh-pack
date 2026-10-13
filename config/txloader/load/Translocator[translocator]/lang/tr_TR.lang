@@ -1,0 +1,12 @@
+tile.translocator.name=Translokatör
+tile.translocator|0.name=Eşya Translokatörü
+tile.translocator|1.name=Sıvı Translokatörü
+tile.craftingGrid.name=Üretim Izgarası
+item.translocator:diamondNugget.name=Elmas Parçası
+
+translocator.regulate=Düzenleme
+translocator.filter=Filtre
+translocator.update.display=GT Pump Cover Installed: Flow Rate
+translocator.update.display.dupe=GT Pump Cover is the same
+
+key.craftingGrid=Üretim Izgarası

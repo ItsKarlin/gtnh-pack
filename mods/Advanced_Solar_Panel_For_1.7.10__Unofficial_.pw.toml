@@ -1,0 +1,8 @@
+name = "Advanced Solar Panel For 1.7.10 (Unofficial)"
+filename = "AdvancedSolarPanel-1.7.10-3.5.1.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/2885/953/AdvancedSolarPanel_1.7.10_Edition.jar"
+hash-format = "sha256"
+hash = "cf3524d3335e96e4541b087d6384e58b93dcfad0e2f8e49b2ce53908ff567401"

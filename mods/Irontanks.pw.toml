@@ -1,0 +1,8 @@
+name = "Irontanks"
+filename = "irontanks-1.4.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Irontanks/releases/download/1.4.7/irontanks-1.4.7.jar"
+hash-format = "sha256"
+hash = "64e8b58781a0ad8416e35f3f3ecf0939710841232ec62603de41d885e3492ab0"

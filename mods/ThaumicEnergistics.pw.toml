@@ -1,0 +1,8 @@
+name = "ThaumicEnergistics"
+filename = "thaumicenergistics-1.7.64-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.7.64-GTNH/thaumicenergistics-1.7.64-GTNH.jar"
+hash-format = "sha256"
+hash = "6787fed73f4f6b92d95719d0fb7ccb5e3bdd0a41c78a713b7d05e5ef6ac0c715"

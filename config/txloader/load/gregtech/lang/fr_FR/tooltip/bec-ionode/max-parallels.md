@@ -1,0 +1,1 @@
+Équivalent à l’option du panneau d’alimentation.

@@ -1,0 +1,8 @@
+name = "Battlegear2-for-Backhand"
+filename = "battlegear2-1.6.8-backhand.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Battlegear2-for-Backhand/releases/download/1.6.8-backhand/battlegear2-1.6.8-backhand.jar"
+hash-format = "sha256"
+hash = "2a05bf562fa84c82e7d03ae642cbb4bb488edc60a1bd3e65717d44f222b09908"

@@ -1,0 +1,12 @@
+tile.translocator.name=Intercambiador
+tile.translocator|0.name=Intercambiador de Objetos
+tile.translocator|1.name=Intercambiador de Líquidos
+tile.craftingGrid.name=Cuadrícula de Elaboración
+item.translocator:diamondNugget.name=Pepita de Diamante
+
+translocator.regulate=Regular
+translocator.filter=Filtro
+translocator.update.display=GT Pump Cover Installed: Flow Rate
+translocator.update.display.dupe=GT Pump Cover is the same
+
+key.craftingGrid=Cuadrícula de Elaboración

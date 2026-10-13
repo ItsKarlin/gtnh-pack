@@ -1,0 +1,8 @@
+name = "AngerMod"
+filename = "AngerMod-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/AngerMod/releases/download/1.0.7/AngerMod-1.0.7.jar"
+hash-format = "sha256"
+hash = "6fa83c2a23c5a43733f2dbccfdd7a105966ec6c810138ca2562fd5415714a434"

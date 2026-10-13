@@ -1,0 +1,8 @@
+name = "MatterManipulator"
+filename = "matter-manipulator-0.1.61-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.61-GTNH/matter-manipulator-0.1.61-GTNH.jar"
+hash-format = "sha256"
+hash = "0929420899ff794d0945845f98e5f23778892cfaf41b81cde9689897c0bfbff4"

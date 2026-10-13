@@ -1,0 +1,8 @@
+name = "IronChestMinecarts"
+filename = "IronChestMinecarts-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/IronChestMinecarts/releases/download/1.2.1/IronChestMinecarts-1.2.1.jar"
+hash-format = "sha256"
+hash = "5844b2387306981e5997076e869b33376e1673fb9f276a87db279066f1c062a0"

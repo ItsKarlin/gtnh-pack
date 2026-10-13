@@ -1,0 +1,8 @@
+name = "Mobs Info"
+filename = "mobsinfo-0.6.0.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8861/46/mobsinfo-0.6.0.jar"
+hash-format = "sha256"
+hash = "fa8b2e9c3c994873cbee196dea29a0fa3f83e2d9757ed00268a5a3d57fd5e8a1"

@@ -1,0 +1,8 @@
+name = "waila"
+filename = "Waila-1.19.34.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/waila/releases/download/1.19.34/Waila-1.19.34.jar"
+hash-format = "sha256"
+hash = "2eaf6bf08e950369547e93ebea365826b4db4f83d193f9d65441ffff38c5ef9e"

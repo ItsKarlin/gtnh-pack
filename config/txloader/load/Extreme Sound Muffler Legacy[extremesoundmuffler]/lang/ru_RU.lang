@@ -1,0 +1,66 @@
+esm.key.open_muffler_gui=Открыть меню глушителя звуков
+esm.inventory.btn=Глушитель
+
+esm.slider.btn.muffler.muffle=Заглушить звук
+esm.slider.btn.muffler.unmuffle=Включить звук
+esm.slider.btn.play.play_sound=Проиграить/Остановить звук
+esm.slider.btn.volume=Громкость: %s
+
+esm.main_screen.btn.csl.recent=Недавние
+esm.main_screen.btn.csl.all=Все
+esm.main_screen.btn.csl.muffled=Приглушён
+esm.main_screen.btn.csl.tooltip=Показывает %s звуки
+esm.main_screen.btn.tms.stop=Остановить глушение
+esm.main_screen.btn.tms.start=Начать глушение
+esm.main_screen.btn.delete.sounds=Удалить заглушенные звуки 
+esm.main_screen.btn.delete.list=Очистить список
+esm.main_screen.btn.delete.anchor=Удалить якорь
+esm.main_screen.btn.accept=Принять
+esm.main_screen.btn.next_sounds=Следующие звуки
+esm.main_screen.btn.previous_sounds=Предыдущие звуки
+esm.main_screen.btn.anchors.disabled=Якоря отключены!
+esm.main_screen.btn.anchors.set_message=Сначала установите якорь
+esm.main_screen.btn.anchors.set=Установить якорь
+esm.main_screen.btn.anchors.set_range=Радиус: 1 - 32
+esm.main_screen.btn.anchors.set_title=Изменить название якоря
+esm.main_screen.btn.anchors.edit=Изменить якорь
+esm.main_screen_btn.clear_recent=Очистить список недавних звуков
+esm.main_screen_btn.search=Поиск
+
+esm.main_screen.main_title=ESM - Главный экран
+esm.main_screen.tip=Подсказка: %s
+
+esm.main_screen.side_screen.radius=Радиус: %s
+esm.main_screen.side_screen.dimension=Измерение: %s
+esm.main_screen.side_screen.title=Название: 
+esm.main_screen.side_screen.radius_edit=Радиус: 
+
+esm.tip.disable=Ты можешь отключить эти подсказки в настройках
+esm.tip.change_volume=Ты можешь изменить громкость заглушенных звуков передвигая слайдер
+esm.tip.inv_button=Вы можете переместить кнопку, удерживая CTRL и ЛКМ над кнопкой, и перетащив её в нужное место
+esm.tip.inv_button_disable=Вы можете отключать и включать кнопку глушителя на экране инвентаря в настройках
+esm.tip.play_sound=Вы можете воспроизвести любой звук, нажав соответствующую кнопку воспроизведения
+esm.tip.unmuffle=Вы можете прекратить глушение всех выбранных звуков, нажав кнопку "Остановить глушение", нажмите её снова, чтобы возобновить глушение
+esm.tip.no_anchors=Вы можете отключить якоря в настройках
+esm.tip.sound_blacklist=Вы можете добавить звуки в чёрный список в настройках
+esm.tip.left_buttons=Вы можете переместить кнопки "Глушитель" и "Воспроизведение" в левую часть в настройках
+esm.tip.dark_theme=Вы можете включить тёмную тему в настройках
+esm.tip.use_anchors=Якоря (10 кнопок сверху) используются для глушения звуков в выбранной области
+esm.tip.set_anchors=Нажмите любую кнопку якоря (с номером), а затем кнопку в виде маркера (справа), чтобы установить позицию якоря
+esm.tip.modify_anchors=После установки якорей вы можете нажать кнопку маркера, чтобы переместить их позицию в любой момент.
+esm.tip.modify_anchors_2=Вы можете изменить название и радиус действия якоря после установки его позиции
+esm.tip.reset_recent_sounds=Удерживайте Shift на экране \"Недавние\" и нажмите кнопку корзины, чтобы очистить список недавних звуков
+
+esm.config.general.forbiddensounds=Запрещённые звуки
+esm.config.general.lawfulalllist=Глушить абсолютно все звуки
+esm.config.general.defaultmutevolume=Громкость глушения по умолчанию
+esm.config.general.leftbuttons=Кнопки слева
+esm.config.general.showtip=Показывать подсказки
+esm.config.general.usedarktheme=Использовать тёмную тему
+esm.config.general=Общие
+esm.config.inventory_button.disableinventorybutton=Отключить кнопку в инвентаре
+esm.config.inventory_button.invbuttonx=Кнопка в инвентаре X
+esm.config.inventory_button.invbuttony=Кнопка в инвентаре Y
+esm.config.inventory_button=Кнопка в инвентаре
+esm.config.anchors.disableanchors=Отключить якоря
+esm.config.anchors=Якоря

@@ -1,0 +1,8 @@
+name = "Postea"
+filename = "postea-1.2.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Postea/releases/download/1.2.7/postea-1.2.7.jar"
+hash-format = "sha256"
+hash = "9ecaf6ff1f14c3f85ac840460db311f0638441809d81d2f1da79f63ed6ce4b1a"

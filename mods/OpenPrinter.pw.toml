@@ -1,0 +1,8 @@
+name = "OpenPrinter"
+filename = "openprinter-0.3.1-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/OpenPrinter/releases/download/0.3.1-GTNH/openprinter-0.3.1-GTNH.jar"
+hash-format = "sha256"
+hash = "c72465d029b12edc0bdaee1e1361ec18b29e51e2270ef11c997ac16efe74a6ad"

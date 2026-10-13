@@ -1,0 +1,8 @@
+name = "Gravitation-Suite-Neo"
+filename = "gravisuiteneo-1.3.16.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Gravitation-Suite-Neo/releases/download/1.3.16/gravisuiteneo-1.3.16.jar"
+hash-format = "sha256"
+hash = "cb3b80662ac3653a6f76c4a77d1a3b3c8fd33b46aecc7ecdd37dcb4dcfe8ef17"

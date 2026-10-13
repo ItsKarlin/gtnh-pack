@@ -1,0 +1,22 @@
+config.falsepatternlib.misc=Divers
+config.falsepatternlib.misc.tooltip=Paramètres qui ne rentrent pas dans les autres catégories
+config.falsepatternlib.misc.inGameModOptionsFix=Correction des options en jeu
+config.falsepatternlib.misc.inGameModOptionsFix.tooltip=Corrige le menu des options des mods en jeu.
+
+config.falsepatternlib.toasts=Notifications toast
+config.falsepatternlib.toasts.tooltip=Paramètres des notifications toast
+config.falsepatternlib.toasts.maxVisible=Nombre max. de notifications
+config.falsepatternlib.toasts.maxVisible.tooltip=Nombre maximal de notifications affichées à l’écran.
+config.falsepatternlib.toasts.yOffset=Décalage vertical des notifications
+config.falsepatternlib.toasts.yOffset.tooltip=Espace vide depuis le haut de l’écran, en pixels.
+config.falsepatternlib.toasts.align=Alignement des notifications
+config.falsepatternlib.toasts.align.tooltip=Côté d'affichage des notifications
+
+config.falsepatternlib.config_engine=Moteur de configuration
+config.falsepatternlib.config_engine.tooltip=Paramètres du système de configuration FPLib (également utilisé par d'autres mods)
+config.falsepatternlib.config_engine.configErrorLogging=Journalisation des erreurs de configuration
+config.falsepatternlib.config_engine.configErrorLogging.tooltip=Configuration de la journalisation des erreurs de configuration.\n[None] désactive toute journalisation intégrée des erreurs de validation de la configuration.
+config.falsepatternlib.config_engine.configSyncSuccessLogging=Journalisation de la synchronisation de configuration
+config.falsepatternlib.config_engine.configSyncSuccessLogging.tooltip=Comment les synchronisations réussies doivent être journalisées.
+config.falsepatternlib.config_engine.configSyncFailureLogging=Journalisation des échecs de synchronisation de configuration
+config.falsepatternlib.config_engine.configSyncFailureLogging.tooltip=Comment les échecs de synchronisation doivent être journalisés.

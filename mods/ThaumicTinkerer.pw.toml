@@ -1,0 +1,8 @@
+name = "ThaumicTinkerer"
+filename = "ThaumicTinkerer-2.12.33.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.33/ThaumicTinkerer-2.12.33.jar"
+hash-format = "sha256"
+hash = "738053f4703e81ea7f20b867346a434f21b8d63cc32bd15394634a03b1016caa"

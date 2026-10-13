@@ -1,0 +1,8 @@
+name = "IronTankMinecarts"
+filename = "irontankminecarts-1.0.12.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/IronTankMinecarts/releases/download/1.0.12/irontankminecarts-1.0.12.jar"
+hash-format = "sha256"
+hash = "a16b445270f12999b24264e3ac946d9f9206a846ad6735e59bf8114f8928beb7"

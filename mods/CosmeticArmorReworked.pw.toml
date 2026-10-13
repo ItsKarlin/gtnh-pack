@@ -1,0 +1,8 @@
+name = "CosmeticArmorReworked"
+filename = "cosmeticarmorreworked-1.0.7-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/CosmeticArmorReworked/releases/download/1.0.7-GTNH/cosmeticarmorreworked-1.0.7-GTNH.jar"
+hash-format = "sha256"
+hash = "5663ff8d10f4936b52d82a7f94b69a733ef2ec845d800727b9aaca6600a41ffe"

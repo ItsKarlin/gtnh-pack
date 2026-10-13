@@ -1,0 +1,13 @@
+{
+  "id": "weak_blood_orb",
+  "condition": {
+    "type": "inventory.add",
+    "item": "AWWayofTime:weakBloodOrb"
+  },
+  "page": "GT New Horizons",
+  "x": -4,
+  "y": 0,
+  "icon": {
+    "registryName": "AWWayofTime:weakBloodOrb"
+  }
+}

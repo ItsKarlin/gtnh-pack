@@ -1,0 +1,8 @@
+name = "GTNH-TC-Wands"
+filename = "GTNH-TC-Wands-1.4.14.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/GTNH-TC-Wands/releases/download/1.4.14/GTNH-TC-Wands-1.4.14.jar"
+hash-format = "sha256"
+hash = "2fd54cd4cf0352819018ce627e8f391b6c2a842118dfc5f1702ea053fc082e05"

@@ -1,0 +1,8 @@
+name = "ToroHealth"
+filename = "torohealth-1.2.3.jar"
+side = "client"
+
+[download]
+url = "https://github.com/GTNewHorizons/ToroHealth/releases/download/1.2.3/torohealth-1.2.3.jar"
+hash-format = "sha256"
+hash = "dca4448b78b5f71a4bf95a8dcdb96921c604abd012166f0822ce934e29701652"

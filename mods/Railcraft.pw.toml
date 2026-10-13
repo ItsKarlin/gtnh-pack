@@ -1,0 +1,8 @@
+name = "Railcraft"
+filename = "Railcraft-9.17.31.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Railcraft/releases/download/9.17.31/Railcraft-9.17.31.jar"
+hash-format = "sha256"
+hash = "1d995023f06eef199cbb591dbd30df53e114c41b7204ed16448458eba1dcfdcb"

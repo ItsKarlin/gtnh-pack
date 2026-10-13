@@ -1,0 +1,8 @@
+name = "RandomBoubles"
+filename = "randomboubles-1.1.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/RandomBoubles/releases/download/1.1.7/randomboubles-1.1.7.jar"
+hash-format = "sha256"
+hash = "3770773a3975ac8ae6fc062bf3f44dfd683cc8671712dce9efd02af1f832cdee"

@@ -1,0 +1,8 @@
+name = "Botanic-horizons"
+filename = "BotanicHorizons-1.12.10-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Botanic-horizons/releases/download/1.12.10-GTNH/BotanicHorizons-1.12.10-GTNH.jar"
+hash-format = "sha256"
+hash = "784fea677fd0fc265a0e7f164f18e92f0ad2b097e4f2bb54b1f10facda2edf34"

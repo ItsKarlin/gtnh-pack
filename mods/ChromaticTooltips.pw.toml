@@ -1,0 +1,8 @@
+name = "ChromaticTooltips"
+filename = "chromatictooltips-1.0.36-GTNH.jar"
+side = "client"
+
+[download]
+url = "https://github.com/GTNewHorizons/ChromaticTooltips/releases/download/1.0.36-GTNH/chromatictooltips-1.0.36-GTNH.jar"
+hash-format = "sha256"
+hash = "d68964d83251e805bb9a19baba43907687ba16e75dc0d2324f76d97f5a562b48"

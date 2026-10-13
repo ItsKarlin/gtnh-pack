@@ -1,0 +1,8 @@
+name = "Minetweaker-Gregtech-5-Addon"
+filename = "GTTweaker-2.3.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Minetweaker-Gregtech-5-Addon/releases/download/2.3.4/GTTweaker-2.3.4.jar"
+hash-format = "sha256"
+hash = "c65f524ee75ff0b7e483214e9040d9bc32ae54adc64ce739a88b018d73c6f72c"

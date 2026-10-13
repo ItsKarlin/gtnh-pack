@@ -1,0 +1,12 @@
+tile.translocator.name=Translokator
+tile.translocator|0.name=Item-Translokator
+tile.translocator|1.name=Flüssigkeiten-Translokator
+tile.craftingGrid.name=Herstellungsgitter
+item.translocator:diamondNugget.name=Diamantnugget
+
+translocator.regulate=Regulieren
+translocator.filter=Filter
+translocator.update.display=GT Pump Cover Installed: Flow Rate
+translocator.update.display.dupe=GT Pump Cover is the same
+
+key.craftingGrid=Herstellungsgitter

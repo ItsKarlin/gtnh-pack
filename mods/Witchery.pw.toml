@@ -1,0 +1,8 @@
+name = "Witchery"
+filename = "witchery-1.7.10-0.24.1.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/2234/410/witchery-1.7.10-0.24.1.jar"
+hash-format = "sha256"
+hash = "68c331f624cea6c0827a31e96a6dce2e75461227c42da70f11ba765a8c6a8cec"

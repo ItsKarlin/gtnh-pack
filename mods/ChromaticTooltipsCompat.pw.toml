@@ -1,0 +1,8 @@
+name = "ChromaticTooltipsCompat"
+filename = "chromatictooltipscompat-1.0.38-GTNH.jar"
+side = "client"
+
+[download]
+url = "https://github.com/GTNewHorizons/ChromaticTooltipsCompat/releases/download/1.0.38-GTNH/chromatictooltipscompat-1.0.38-GTNH.jar"
+hash-format = "sha256"
+hash = "873eed69cf8731f5e8ee9742584bbddc81c19f6ec15ccdf9cd6d747749be20bc"

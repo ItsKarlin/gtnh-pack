@@ -1,0 +1,8 @@
+name = "CraftTweaker"
+filename = "CraftTweaker-3.4.8.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/CraftTweaker/releases/download/3.4.8/CraftTweaker-3.4.8.jar"
+hash-format = "sha256"
+hash = "9895f0253e02f49d3870f5d2375227f7d1b782b895d595f74e7dfc7031435cd2"

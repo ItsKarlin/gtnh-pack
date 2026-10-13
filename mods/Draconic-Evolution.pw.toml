@@ -1,0 +1,8 @@
+name = "Draconic-Evolution"
+filename = "Draconic-Evolution-1.5.33-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Draconic-Evolution/releases/download/1.5.33-GTNH/Draconic-Evolution-1.5.33-GTNH.jar"
+hash-format = "sha256"
+hash = "5637b84616b71b5fb38e5ec113ee20b5c28db6d83557d73b309e02ab34d5a23c"

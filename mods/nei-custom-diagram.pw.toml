@@ -1,0 +1,8 @@
+name = "nei-custom-diagram"
+filename = "NEICustomDiagram-1.8.36.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/nei-custom-diagram/releases/download/1.8.36/NEICustomDiagram-1.8.36.jar"
+hash-format = "sha256"
+hash = "cf407d26d69e409e9a9fa523746fb73c7f14c71dec67c3b84eb7f1489ba7e7c0"

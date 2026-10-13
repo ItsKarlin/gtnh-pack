@@ -1,0 +1,8 @@
+name = "IFU"
+filename = "ifu-1.12.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/IFU/releases/download/1.12.4/ifu-1.12.4.jar"
+hash-format = "sha256"
+hash = "1c36cb51575c6f996aab862e45eacc003f0f7d3a6c84159f82a6affaa2b61a30"

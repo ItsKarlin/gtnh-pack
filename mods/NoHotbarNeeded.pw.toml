@@ -1,0 +1,8 @@
+name = "NoHotbarNeeded"
+filename = "nohotbarneeded-0.0.6.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/NoHotbarNeeded/releases/download/0.0.6/nohotbarneeded-0.0.6.jar"
+hash-format = "sha256"
+hash = "dc7a050014a7358f1f0950776eb28070b835005970395f2b1eeba37e4891c967"

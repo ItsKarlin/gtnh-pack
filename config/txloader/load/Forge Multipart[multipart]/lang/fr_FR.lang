@@ -1,0 +1,41 @@
+microblock.missing=Les microblocs suivants ne sont pas installés sur ce client : %s
+multipart.missing=Les éléments multipart suivants ne sont pas installés sur ce client : %s
+
+item.microblock:sawStone.name=Scie en pierre
+item.microblock:sawIron.name=Scie en fer
+item.microblock:sawDiamond.name=Scie en diamand
+item.microblock:stoneRod.name=Tige en pierre
+
+item.microblock.name=Microbloc
+
+mcr_face.1.name=Revêtement en %s
+mcr_face.1.subset=Revêtement
+mcr_face.2.name=Panneau en %s
+mcr_face.2.subset=Panneau
+mcr_face.4.name=Dalle en %s
+mcr_face.4.subset=Dalle
+
+mcr_hllw.1.name=Revêtement creux en %s
+mcr_hllw.1.subset=Revêtement creux
+mcr_hllw.2.name=Panneau creux en %s
+mcr_hllw.2.subset=Panneau creux
+mcr_hllw.4.name=Dalle creuse en %s
+mcr_hllw.4.subset=Dalle creuse
+
+mcr_edge.1.name=Bande en %s
+mcr_edge.1.subset=Bande
+mcr_edge.2.name=Poteau en %s
+mcr_edge.2.subset=Poteau
+mcr_edge.4.name=Pilier en %s
+mcr_edge.4.subset=Pilier
+
+mcr_cnr.1.name=Renfoncement en %s
+mcr_cnr.1.subset=Renfoncement
+mcr_cnr.2.name=Coin en %s
+mcr_cnr.2.subset=Coin
+mcr_cnr.4.name=Encoche en %s
+mcr_cnr.4.subset=Encoche
+
+nei.subsets.Microblocks=Microblocs
+
+key.control=Changer la disposition du bloc

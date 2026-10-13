@@ -1,0 +1,65 @@
+modularui2.test=测试文本\n第二行
+modularui2.tooltip.shift=§b按住Shift
+modularui2.increment.tooltip=§7点击可将数字增加§6%d§7\n按住shift[§6%d§7]，ctrl[§6%d§7]或者shift+ctrl[§6%d§7]
+modularui2.decrement.tooltip=§7点击可将数字减少§6%d§7\n按住shift[§6%d§7]，ctrl[§6%d§7]或者shift+ctrl[§6%d§7]
+modularui2.amount=§9数量：%,d
+modularui2.fluid.capacity=§9容量：%s %s
+modularui2.fluid.empty=空
+modularui2.fluid.amount=§9数量：%s/%s %s
+modularui2.fluid.phantom.amount=§9数量：%s%s
+modularui2.fluid.phantom.control=§7向上滚动鼠标滚轮增加数量，向下减少。\n§7Shift[§6x10§7],Ctrl[§ex100§7],Alt[§ax1000§7]\n§7右键增加数量，左键减少.\n§7Shift + 左键清空。
+modularui2.fluid.phantom.clear=§8左键移除
+modularui2.fluid.registry=§7注册信息: %s
+modularui2.fluid.unique_registry=§7唯一注册信息键: %s
+modularui2.fluid.temperature=§c温度: %,d K
+modularui2.fluid.state=§a状态: %s
+modularui2.fluid.gas=气体
+modularui2.fluid.liquid=液体
+modularui2.item.phantom.control=§7向上滚动鼠标滚轮增加数量，向下减少。\n§7Shift[§6x8§7],Ctrl[§ex64§7],Alt[§ax512§7]\n§7右键增加数量，左键减少.\n§7Shift + 左键清空。
+
+modularui2.fluid.click_to_fill=§7手持流体容器§b左键§7单击流体槽以§b填入§7流体。\n§c右键§7单击以填入一次。
+modularui2.fluid.click_combined=§7手持流体容器§c右键§7或§b左键§7单击流体槽以§c倒出§7或§b填入§7流体。\n§c右键§7单击以倒出或填入一次。
+modularui2.fluid.click_to_empty=§7手持流体容器§c右键§7单击流体槽以§c倒出§7流体。\n§c右键§7单击以倒出一次。
+
+# Debug Screen
+modularui2.debug.mouse_pos=§7鼠标位置: §3%d§7, §3%d
+modularui2.debug.fps=§7FPS: §3%d
+modularui2.debug.theme_id=§7主题 ID: §6%s
+modularui2.debug.widget_theme=§7Widget 主题: §6%s
+modularui2.debug.size=§7尺寸: §3%d§7, §3%d
+modularui2.debug.pos_rel=§7Pos: §3%d§7, §3%d§7  Rel: §3%d§7, §3%d
+modularui2.debug.widget=§7Widget: §6%s
+modularui2.debug.parent_size=§7父元素尺寸: §3%d§7, §3%d
+modularui2.debug.parent_pos_rel=§7父元素位置: §3%d§7, §3%d§7  Rel: §3%d§7, §3%d
+modularui2.debug.parent=§7父元素: §6%s
+modularui2.debug.slot_index=§7槽位序数: §3%d
+modularui2.debug.slot_number=§7槽位数: §3%d
+modularui2.debug.shift_click_priority=§7Shift点击 优先级: §3%d
+modularui2.debug.disabled=§c已禁用
+modularui2.debug.hovered=§7悬停: §6%s
+
+# Config
+modularui2.config.default_scroll_speed=滚动速度
+modularui2.config.default_scroll_speed.tooltip=Amount of pixels scrolled
+modularui2.config.smooth_progress_bar=Smooth Progress Bar
+modularui2.config.smooth_progress_bar.tooltip=If progress bar should step in texture pixels or screen pixels.\n(Screen pixels are way smaller and therefore smoother)
+modularui2.config.tooltip_pos=Tooltip Position
+modularui2.config.tooltip_pos.tooltip=Default tooltip position around the widget or its panel.
+modularui2.config.esc_restore_last_text=ESC Restores Last Text
+modularui2.config.esc_restore_last_text.tooltip=If true, pressing ESC key in the text field will restore the last text instead of confirming current one.
+modularui2.config.show_slot_overlay=Show Slot Overlay
+modularui2.config.show_slot_overlay.tooltip=If true, display the slot overlay when the slot is occupied.
+modularui2.config.gui_debug_mode=GUI Debug Mode
+modularui2.config.gui_debug_mode.tooltip=If true, widget outlines and widget information will be drawn.
+modularui2.config.use_dark_theme_by_default=Use Dark Theme By Default
+modularui2.config.use_dark_theme_by_default.tooltip=If true and not specified otherwise, screens will try to use the 'vanilla_dark' theme.
+modularui2.config.debug_text_color=Debug Text Color
+modularui2.config.debug_text_color.tooltip=Debug text color. Prefix Hex values with a #. Common colors can be referred by their name.
+modularui2.config.debug_outline_color=Debug Outline Color
+modularui2.config.debug_outline_color.tooltip=Debug outline color. Prefix Hex values with a #. Common colors can be referred by their name.
+modularui2.config.enable_test_guis=Enable Test GUIs
+modularui2.config.enable_test_guis.tooltip=Enables a test block, test item with a test gui and opening a gui by right clicking a diamond.
+modularui2.config.enable_test_overlays=Enable Test Overlays
+modularui2.config.enable_test_overlays.tooltip=Enables a test overlay shown on title screen and watermark shown on every GuiContainer.
+# modularui2.config.use_rich_tooltips=Enable RichTooltip
+# modularui2.config.use_rich_tooltips.tooltip=If true, vanilla tooltip will be replaced with MUI's RichTooltip

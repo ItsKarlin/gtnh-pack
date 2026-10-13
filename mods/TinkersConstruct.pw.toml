@@ -1,0 +1,8 @@
+name = "TinkersConstruct"
+filename = "TConstruct-1.14.118-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.118-GTNH/TConstruct-1.14.118-GTNH.jar"
+hash-format = "sha256"
+hash = "1b83fee5a6a2f04b5f321bae26f3d3b352367e2e22621a070c19743a6163eaf9"

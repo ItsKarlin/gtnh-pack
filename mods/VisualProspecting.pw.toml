@@ -1,0 +1,8 @@
+name = "VisualProspecting"
+filename = "visualprospecting-1.5.41.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.5.41/visualprospecting-1.5.41.jar"
+hash-format = "sha256"
+hash = "531fe837c989b15646ae23f85fcec5fcff8977e66e09c16a79bae7094fd70e25"

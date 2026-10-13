@@ -1,0 +1,8 @@
+name = "HydroEnergy"
+filename = "hydroenergy-1.4.25.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/HydroEnergy/releases/download/1.4.25/hydroenergy-1.4.25.jar"
+hash-format = "sha256"
+hash = "1cfc5166bec68bd49497794516de14f15e633b73e2455086df74e9a0da7fcf8e"

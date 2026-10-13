@@ -1,0 +1,8 @@
+name = "VillageNames"
+filename = "VillageNames-4.5.19-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/VillageNames/releases/download/4.5.19-GTNH/VillageNames-4.5.19-GTNH.jar"
+hash-format = "sha256"
+hash = "3842e16a733f0596e970b0958012367640d8ee7cc3e4e35e6489237f08ff9d7a"

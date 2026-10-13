@@ -1,0 +1,8 @@
+name = "Catwalks-2"
+filename = "catwalks-2.4.2-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://nexus.gtnewhorizons.com/repository/public/com/github/GTNewHorizons/Catwalks-2/2.4.2-GTNH/Catwalks-2-2.4.2-GTNH.jar"
+hash-format = "sha256"
+hash = "262014f90794de4971a988ce436feb2e9559145e937d273f71554da657d3f079"

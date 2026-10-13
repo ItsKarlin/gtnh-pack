@@ -1,0 +1,8 @@
+name = "PersonalSpace"
+filename = "personalspace-1.0.41.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/PersonalSpace/releases/download/1.0.41/personalspace-1.0.41.jar"
+hash-format = "sha256"
+hash = "910df86ee0960c532c492dee83ba5128bbacce2d365b59d3ad292a972fb22e5d"

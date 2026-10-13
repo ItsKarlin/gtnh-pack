@@ -1,0 +1,8 @@
+name = "ThaumicBases"
+filename = "Thaumic-Based-1.9.19.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/ThaumicBases/releases/download/1.9.19/Thaumic-Based-1.9.19.jar"
+hash-format = "sha256"
+hash = "efbf1a36bd7c54fdef9d301dcae0c9500c2f778f9291456a92b1090b866e1cc1"

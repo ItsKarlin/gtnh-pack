@@ -1,0 +1,39 @@
+# Keys
+key.nutrition=Ouvrir l'écran de nutrition
+
+# GUI
+gui.nutrition:nutrition_title=Nutrition
+gui.nutrition:close=Fermer
+gui.nutrition:updating=Mise à jour...
+
+# Nutrients
+nutrient.nutrition:grain=Céréales
+nutrient.nutrition:fruit=Fruits
+nutrient.nutrition:vegetable=Légumes
+nutrient.nutrition:protein=Protéines
+nutrient.nutrition:dairy=Laitage
+
+# Tooltips
+tooltip.nutrition:nutrients=Nutriments :
+
+# Potions
+potion.nutrition:toughness=Endurance
+potion.nutrition:nourished=Bien alimenté
+potion.nutrition:malnourished=Sous-alimenté
+
+#Commands
+command.nutrition:usage=Commandes de nutrition : help, get, set, add, subtract, reset, reload
+command.nutrition:help.1=Page d'aide de Nutrition :
+command.nutrition:help.2=/nutrition get <joueur> [nutriment] - Liste les nutriments d'un joueur, avec possibilité de spécifier un nutriment précis.
+command.nutrition:help.3=/nutrition set <joueur> <nutriment > <valeur> - Définit la valeur d'un nutriment pour un joueur.
+command.nutrition:help.4=/nutrition add <joueur> <nutriment > <valeur> - Ajoute une valeur au niveau d'un nutriment pour un joueur.
+command.nutrition:help.5=/nutrition subtract <joueur> <nutriment> <valeur> - Retire une valeur au niveau d'un nutriment pour un joueur.
+command.nutrition:help.6=/nutrition reset <joueur> [nutriment] - Réinitialise les nutriments d'un joueur, avec possibilité de spécifier un nutriment précis.
+command.nutrition:help.7=/nutrition reload - Recharge les nutriments et les effets de potion depuis la configuration.
+command.nutrition:get=%s : %s%%
+command.nutrition:get_all_header=Valeurs des nutriments de %s
+command.nutrition:get_all_line=- %s : %s%%
+command.nutrition:set=Nutriment « %s » de %s défini à %s%%
+command.nutrition:reset=Nutriment « %s » réinitialisé pour %s
+command.nutrition:reset_all=Tous les nutriments réinitialisés pour %s
+command.nutrition:reload=Nutriments et effets rechargés

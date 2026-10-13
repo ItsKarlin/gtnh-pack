@@ -1,0 +1,14 @@
+{
+  "id": "stargate_2.1.2.3qf",
+  "condition": {
+    "type": "inventory.add",
+    "item": "minecraft:paper",
+    "meta": 2
+  },
+  "page": "GT New Horizons",
+  "x": 15,
+  "y": 2,
+  "icon": {
+    "registryName": "dreamcraft:PolychromeGatePlate"
+  }
+}

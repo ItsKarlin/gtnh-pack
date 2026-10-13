@@ -1,0 +1,12 @@
+tile.translocator.name=転送装置
+tile.translocator|0.name=アイテム転送装置
+tile.translocator|1.name=流体転送装置
+tile.craftingGrid.name=即席作業スペース
+item.translocator:diamondNugget.name=ダイヤモンドナゲット
+
+translocator.regulate=調整フィルター
+translocator.filter=フィルター
+translocator.update.display=GT Pump Cover Installed: Flow Rate
+translocator.update.display.dupe=GT Pump Cover is the same
+
+key.craftingGrid=即席作業スペース

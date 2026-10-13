@@ -1,0 +1,34 @@
+# tools
+wailaharvestability.toolclass.pickaxe=ツルハシ
+wailaharvestability.toolclass.shovel=シャベル
+wailaharvestability.toolclass.axe=斧
+wailaharvestability.toolclass.chisel=ノミ
+wailaharvestability.toolclass.scoop=虫取り網
+wailaharvestability.toolclass.crowbar=バール
+wailaharvestability.toolclass.sword=剣
+wailaharvestability.toolclass.wrench=レンチ
+wailaharvestability.toolclass.cutter=ワイヤーカッター
+
+# tooltips
+wailaharvestability.effectivetool=適正ツール: 
+wailaharvestability.harvestlevel=採掘レベル: 
+wailaharvestability.currentlyharvestable= 破壊時の回収の可否
+wailaharvestability.harvestable= 破壊
+
+# options
+option.harvestability.harvestlevel=採掘レベル
+option.harvestability.effectivetool=適正ツール
+option.harvestability.currentlyharvestable=破壊時の回収の可否
+option.harvestability.oresonly=鉱石のみ
+option.harvestability.harvestlevel.sneakingonly=スニーク中のみ: 採掘レベル
+option.harvestability.effectivetool.sneakingonly=スニーク中のみ: 適正ツール
+option.harvestability.currentlyharvestable.sneakingonly=スニーク中のみ: 回収可否
+option.harvestability.minimal=最小モード
+option.harvestability.unharvestableonly=回収不可のみ
+option.harvestability.toolrequiredonly=要求ツールのみ
+option.harvestability.shearability=ハサミ使用の有無
+option.harvestability.shearability.sneakingonly=スニーク中のみ: ハサミ使用の有無
+option.harvestability.silktouchability=シルクタッチの有無
+option.harvestability.silktouchability.sneakingonly=スニーク中のみ: シルクタッチの有無
+option.harvestability.harvestlevelnum=採掘レベル値
+option.harvestability.harvestlevelnum.sneakingonly=スニーク中のみ: 採掘レベル値

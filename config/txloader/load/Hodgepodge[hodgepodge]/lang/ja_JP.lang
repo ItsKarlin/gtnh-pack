@@ -1,0 +1,122 @@
+key.hodgepodge.category=Hodgepodge
+key.fastBlockPlacing.desc=ブロックの高速設置
+key.fastBlockPlacing.enabled=§fブロックの高速設置 §a有効化
+key.fastBlockPlacing.disabled=§fブロックの高速設置g §c無効化
+
+tile.dirt.name=土
+tile.sapling.name=苗木
+tile.sand.name=砂
+tile.flower1.name=花
+tile.flower2.name=花
+tile.stoneSlab.name=ハーフブロック
+tile.monsterStoneEgg.name=Stone Monster Egg
+tile.woodSlab.name=ハーフブロック
+tile.cobbleWall.name=塀
+tile.quartzBlock.name=クォーツブロック
+tile.clayHardenedStained.name=色付き粘土
+tile.woolCarpet.name=カーペット
+tile.doublePlant.name=Large Plant
+
+item.dyePowder.name=染料
+item.skull.name=頭・頭蓋骨
+item.fish.name=魚
+
+entity.Skeleton.wither.name=ウィザースケルトン
+entity.MinecartRideable.name=トロッコ
+entity.MinecartChest.name=チェスト付きのトロッコ
+entity.MinecartFurnace.name=かまど付きのトロッコ
+entity.MinecartTNT.name=TNT付きのトロッコ
+entity.MinecartHopper.name=ホッパー付きのトロッコ
+entity.MinecartCommandBlock.name=コマンドブロック付きのトロッコ
+
+commands.time.get=The current world time is %s (time of day: %s)
+commands.time.usageWithGet=/time <set|add> <value> または /time get
+
+hodgepodge.soundsmenu.refreshsounds=サウンドをリフレッシュ
+hodgepodge.soundsmenu.enhancements=Sound Enhancements...
+hodgepodge.soundsmenu.enhancements.title=Sound Enhancements
+hodgepodge.soundsmenu.enhancements.lwjgl3ify=HRTF, output limiting, and stereo spatialization require lwjgl3ify (Java 17+).
+hodgepodge.soundsmenu.enhancements.reload=Refresh sounds to apply reverb to sounds already playing.
+hodgepodge.soundsmenu.option=%s: %s
+hodgepodge.soundsmenu.hrtf=Headphone HRTF
+hodgepodge.soundsmenu.hrtf.tooltip=Uses headphone-specific audio processing to make sounds feel above, below, in front of, or behind you. Best with headphones; speakers may sound hollow. DEFAULT follows OpenAL's device setting. Requires lwjgl3ify.
+hodgepodge.soundsmenu.output_limiter=Output Limiter
+hodgepodge.soundsmenu.output_limiter.tooltip=Reduces the final mix only when it would clip, preventing harsh distortion when many loud sounds overlap. DEFAULT follows OpenAL's device setting. Requires lwjgl3ify.
+hodgepodge.soundsmenu.environmental_reverb=Environmental Reverb
+hodgepodge.soundsmenu.environmental_reverb.tooltip=Adds echoes to positional sounds based on how enclosed you are, so caves and rooms sound less flat. Refresh sounds after changing this to update sounds already playing.
+hodgepodge.soundsmenu.reverb_strength=Reverb Amount
+hodgepodge.soundsmenu.reverb_strength.tooltip=Controls how strong environmental echoes can become. Changes apply live. Default: 30%%.
+hodgepodge.soundsmenu.downmix_stereo=Stereo Downmix
+hodgepodge.soundsmenu.downmix_stereo.tooltip=Converts positional stereo sound effects to mono as they load. This halves their decoded memory and lets older OpenAL position them in 3D. Streaming music and records are unchanged. Refresh sounds to rebuild cached audio.
+hodgepodge.soundsmenu.spatialize_stereo=Stereo Spatialization
+hodgepodge.soundsmenu.spatialize_stereo.tooltip=Keeps positional sounds stereo while allowing newer OpenAL to place them in 3D. Requires lwjgl3ify and takes priority over Stereo Downmix when supported. Refresh sounds after changing it.
+hodgepodge.soundsmenu.output_device=出力デバイス
+hodgepodge.soundsmenu.output_device.title=出力デバイスを選ぶ
+hodgepodge.soundsmenu.output_device.default=システムのデフォルト
+hodgepodge.soundsmenu.output_device.tooltip=Selects an OpenAL playback device. System Default follows operating-system changes. Requires lwjgl3ify and modern OpenAL Soft.
+hodgepodge.soundsmenu.output_device.failed=該当の出力デバイスには切り替えられません。
+hodgepodge.soundsmenu.default=DEFAULT
+hodgepodge.bed_respawn.msg=リスポーン地点を設定しました
+hodgepodge.menu.mod_options=Mod設定...
+
+hodgepodge.chat.huge_message.logged=§cSomeone tried to send you a huge chat message that would kick you. Ask your server admin to see details. Please provide these info while reporting: Incident ID %s§c. Start of original message: %s
+hodgepodge.chat.huge_message.unlogged=§cSomeone tried to send you a huge chat message that would kick you. Ask your server admin to turn on logHugeChat in HodgePodge if you cannot identify the source of this and this keeps happening. Start of original message: %s
+
+bettermodlist.sort.normal=通常
+bettermodlist.sort.a_to_z=A-Z
+bettermodlist.sort.z_to_a=Z-A
+bettermodlist.gui.modlistinfo1=なんてこった！何もかもが違う！
+bettermodlist.gui.modlistinfo2=新しいレイアウトの提供元 :
+
+hodgepodge.debug.advanced_tooltips.enabled=高度な情報: §a表示
+hodgepodge.debug.advanced_tooltips.disabled=高度な情報: §c非表示
+hodgepodge.debug.hitboxes.enabled=当たり判定: §a表示
+hodgepodge.debug.hitboxes.disabled=当たり判定: §c非表示
+hodgepodge.debug.pause_focus.enabled=フォーカスが外れた時にポーズ: §aオン
+hodgepodge.debug.pause_focus.disabled=フォーカスが外れた時にポーズ: §cオフ
+hodgepodge.debug.reload_chunks.message=すべてのチャンクを再読み込みしました。
+hodgepodge.debug.reload_pack.message=リソースパックを%s秒で再読み込みしました。
+hodgepodge.debug.crash.count.0=F3 + Cを押下しています。解除しない場合、ゲームは6秒後にクラッシュします。
+hodgepodge.debug.crash.count.1=クラッシュまで5秒...
+hodgepodge.debug.crash.count.2=クラッシュまで4秒...
+hodgepodge.debug.crash.count.3=クラッシュまで3秒...
+hodgepodge.debug.crash.count.4=クラッシュまで2秒...
+hodgepodge.debug.crash.count.5=クラッシュまで1秒...
+hodgepodge.debug.crash.count.6=6秒経ちました。任意のキーを離すとゲームがクラッシュします。
+hodgepodge.debug.crash.cancel=クラッシュがキャンセルされました。
+hodgepodge.debug.copy_location.message=クリップボードに座標をコピーしました。
+
+hodgepodge.debug.help.message=キー割り当て:
+hodgepodge.debug.help.0=F3 = デバッグ画面を開く
+hodgepodge.debug.help.1=Shift + F3 = デバック画面とプロファイラグラフを開く
+hodgepodge.debug.help.angelica=Alt + F3 = [Angelica] デバック画面とFPS/TPSグラフを開く
+hodgepodge.debug.help.2=F3 + A = チャンクを再読み込みする
+hodgepodge.debug.help.3=F3 + B = 当たり判定を表示する
+hodgepodge.debug.help.4=F3 + C = /cofh tpxコマンドと同様に座標をコピーする、または6秒間押し続けてゲームをクラッシュさせる
+hodgepodge.debug.help.5=F3 + D = [Hodgepodge] チャットを消去する
+hodgepodge.debug.help.6=F3 + H = 高度な情報
+hodgepodge.debug.help.7=F3 + P = フォーカスが外れた時にゲームを一時停止する
+hodgepodge.debug.help.8=F3 + Q = [Hodgepodge] このリストを表示する
+hodgepodge.debug.help.9=F3 + S/T = リソースパックを再読み込みする
+hodgepodge.debug.help.etfuturum=F3 + F4 = [Et-Futurum-Requiem] ゲームモードを切り替える
+hodgepodge.debug.help.nei.1=%s = [NEI] スポーンチェッカーを表示する
+hodgepodge.debug.help.nei.2=%s = [NEI] チャンクオーバーレイを表示する
+
+hodgepodge.disconnect.server_shutdown=Server closed
+hodgepodge.disconnect.idle=You have been idle for too long!
+hodgepodge.disconnect.illegal_stance=Illegal stance
+hodgepodge.disconnect.illegal_position=Illegal position
+hodgepodge.disconnect.flying=Flying is not enabled on this server
+hodgepodge.disconnect.illegal_characters=Illegal characters in chat
+hodgepodge.disconnect.invalid_entity=Attempting to attack an invalid entity
+hodgepodge.disconnect.hardcore_death=You have died. Game over, man, it's game over!
+hodgepodge.disconnect.logged_in_elsewhere=You logged in from another location
+hodgepodge.disconnect.not_whitelisted=You are not white-listed on this server!
+hodgepodge.disconnect.server_full=The server is full!
+hodgepodge.disconnect.name_taken=That name is already taken.
+hodgepodge.disconnect.login_timeout=Took too long to log in
+hodgepodge.disconnect.banned=You are banned from this server.
+hodgepodge.disconnect.ip_banned=You have been IP banned.
+hodgepodge.disconnect.server_starting=Server is still starting! Please wait before reconnecting.
+hodgepodge.disconnect.session_cleanup_pending=Your previous session is still being cleaned up, please reconnect in a moment
+hodgepodge.disconnect.session_cleanup_failed=Your previous session could not be cleaned up safely. Please contact a server administrator.

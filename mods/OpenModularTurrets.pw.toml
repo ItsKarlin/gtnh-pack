@@ -1,0 +1,8 @@
+name = "OpenModularTurrets"
+filename = "OpenModularTurrets-2.4.8.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/OpenModularTurrets/releases/download/2.4.8/OpenModularTurrets-2.4.8.jar"
+hash-format = "sha256"
+hash = "f7e505b76f3ed93fab1cdb22ffbdc89401d2b1f0c9f8ab4f11742a83dec80a8b"

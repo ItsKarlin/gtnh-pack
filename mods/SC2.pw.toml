@@ -1,0 +1,8 @@
+name = "SC2"
+filename = "StevesCarts-2.3.15.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/SC2/releases/download/2.3.15/StevesCarts-2.3.15.jar"
+hash-format = "sha256"
+hash = "9943eb6a0bcb38442884fbde7fce7811f0f0b79e3ae1475d6d606692d3a271b6"

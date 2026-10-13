@@ -1,0 +1,8 @@
+name = "Et-Futurum-Requiem"
+filename = "etfuturum-2.6.60-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.60-GTNH/etfuturum-2.6.60-GTNH.jar"
+hash-format = "sha256"
+hash = "23c324e58ce7c002a6a79c4f5f8c51d3facddc0d1696e19c8ef76b93d7e88428"
